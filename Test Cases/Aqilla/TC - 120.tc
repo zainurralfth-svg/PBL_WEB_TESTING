@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 120</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Rozhii Fdk</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Rozhii Fdk</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>0e64238b-434d-4bbc-99f3-481c1c2f2537</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>0e64238b-434d-4bbc-99f3-481c1c2f2537</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>645c9856-ce44-4310-9879-1cb6119e6fbd</testCaseGuid>
+</TestCaseEntity>
