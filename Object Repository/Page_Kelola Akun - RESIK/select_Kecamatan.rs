@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Kecamatan</name>
+   <tag></tag>
+   <elementGuidId>ba3d62f4-8836-4ea5-9d2d-f990c1cbe69b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'kecamatanSelect']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#kecamatanSelect</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Kecamatan&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>344f6d97-eda2-4283-bae9-4d443d67f971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>kecamatanSelect</value>
+      <webElementGuid>a2058513-6bd6-4b74-938f-9ed0cdf01c79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Pilih Kecamatan --BagorBaronBerbekGondangJatikalenKertosonoLengkongLoceretNganjukNgetosNgluyuNgronggotPacePatianrowoPrambonRejosoSawahanSukomoroTanjunganomWilangan</value>
+      <webElementGuid>c3aca22f-a779-4e04-a263-cfed5c176660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b49143fdc7058c5d021156e802bc83e0</value>
+      <webElementGuid>7564d57a-e640-45e2-b234-8df864eaf964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'kecamatanSelect']</value>
+      <webElementGuid>7c332836-e1ea-4fe8-b462-60e90feb7c41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'kecamatanSelect']</value>
+      <webElementGuid>d4aac331-f939-4361-8cdf-01346ec66c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'kecamatanSelect' and (text() = '-- Pilih Kecamatan --BagorBaronBerbekGondangJatikalenKertosonoLengkongLoceretNganjukNgetosNgluyuNgronggotPacePatianrowoPrambonRejosoSawahanSukomoroTanjunganomWilangan' or . = '-- Pilih Kecamatan --BagorBaronBerbekGondangJatikalenKertosonoLengkongLoceretNganjukNgetosNgluyuNgronggotPacePatianrowoPrambonRejosoSawahanSukomoroTanjunganomWilangan')]</value>
+      <webElementGuid>091ea30a-243b-498e-9dd1-1c815480c505</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
