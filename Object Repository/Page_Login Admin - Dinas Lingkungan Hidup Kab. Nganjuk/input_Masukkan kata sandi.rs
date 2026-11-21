@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3d7f8126-ac85-4b04-8978-a5f63049c82a</webElementGuid>
+      <webElementGuid>2f7baca0-a4d4-46a1-9e05-617460e2acef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>d924b971-c70e-4240-981a-e23c8598a678</webElementGuid>
+      <webElementGuid>31fa6499-8927-499c-ad51-d546d68ea127</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>fe412750-dcdd-48eb-b796-318816080632</webElementGuid>
+      <webElementGuid>e8a91555-87ab-4175-8135-adccc37d293c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>fd230cd2-bd53-4d09-972b-fb4fe1f2e418</webElementGuid>
+      <webElementGuid>0944d887-b3c0-419b-8f3b-1e3dda20a150</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan kata sandi</value>
-      <webElementGuid>6c02013f-489a-4bab-a453-4a1b48f86de3</webElementGuid>
+      <webElementGuid>30a14b4d-c9b0-4cab-86d3-fc9c15748cdb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-9e9af563cb0d5d92f852b4749a4d17cd</value>
-      <webElementGuid>abaccf58-bc77-4334-8b18-0611bc373e52</webElementGuid>
+      <webElementGuid>ae1a82d4-2bff-4c96-b775-aca71a12bb3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'password']</value>
-      <webElementGuid>c35da7e3-b69d-4a7f-a64c-e5b4c83c3e6e</webElementGuid>
+      <webElementGuid>5ffdc7ea-986a-4aec-92e5-e55fa1ab1393</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'password']</value>
-      <webElementGuid>be718752-1d70-40c1-907b-f4b2983770e1</webElementGuid>
+      <webElementGuid>1db98165-d74d-487f-a6f7-de8da6460d0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @id = 'password' and @name = 'password' and @placeholder = 'Masukkan kata sandi']</value>
-      <webElementGuid>63e1df1e-cd47-41a8-b2a1-03820e42360b</webElementGuid>
+      <webElementGuid>554a7e35-dd3a-4057-b551-d52fa42fa54e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

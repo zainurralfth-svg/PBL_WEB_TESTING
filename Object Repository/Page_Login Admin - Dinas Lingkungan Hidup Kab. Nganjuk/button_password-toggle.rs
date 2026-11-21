@@ -10,6 +10,10 @@
          <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' password-toggle ')]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>.password-toggle</value>
       </entry>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f523ae0a-7a55-4f03-8f61-cd72b55772b0</webElementGuid>
+      <webElementGuid>8205d2e5-b856-44ba-99eb-66f967ac85cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7fc87ebf-0966-4d51-a3c7-74de4b76f058</webElementGuid>
+      <webElementGuid>286b8259-e486-47c3-a9aa-bdf7c8011ff7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>password-toggle</value>
-      <webElementGuid>786e5046-126e-4171-818f-d092aca5994c</webElementGuid>
+      <webElementGuid>3c83fb9a-38b8-4138-8789-9e4e3206598d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>togglePasswordVisibility()</value>
-      <webElementGuid>16a20f38-6a37-42f0-9cc7-c1789c78f46f</webElementGuid>
+      <webElementGuid>8db9faf6-c6ba-4389-8cec-a2527c6e9f59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-26de4323d451f13220abc32f73b61ed4</value>
-      <webElementGuid>c7c8abe1-72f7-4371-bed4-686cbbd693a4</webElementGuid>
+      <webElementGuid>42eed91f-7354-41ec-9cd1-5db03fb93052</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' password-toggle ')]</value>
-      <webElementGuid>ca64713b-c72d-4069-a0de-9f7a08359d21</webElementGuid>
+      <webElementGuid>1a948109-3f3d-4c6f-b7f8-3fe67a23a2c4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' password-toggle ')]</value>
-      <webElementGuid>8fcb838e-7b11-4cf6-803b-9003fef8ab09</webElementGuid>
+      <webElementGuid>7b57ba3f-39ac-4376-8bea-1e38f7933cbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button']</value>
-      <webElementGuid>49a34fb4-eb0d-4e67-86b2-bab4364a01c3</webElementGuid>
+      <webElementGuid>9da51699-540d-4e6a-9ed2-5fb39ad69b2b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
