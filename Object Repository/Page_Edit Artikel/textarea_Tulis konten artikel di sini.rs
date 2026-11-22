@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Tulis konten artikel di sini</name>
+   <tag></tag>
+   <elementGuidId>77a9b363-94bd-47d6-93b2-37e583f09999</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#deskripsi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'deskripsi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Tulis konten artikel di sini...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>2ae44fb7-0fbf-4a98-8729-e7b39e12bb75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-textarea</value>
+      <webElementGuid>563958eb-c05c-4668-832b-502c14fa1fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>deskripsi</value>
+      <webElementGuid>5dc3cfec-7c03-446f-a012-100baf36125d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>deskripsi</value>
+      <webElementGuid>d0f8e598-e3bf-4816-a73b-d276ec29341a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tulis konten artikel di sini...</value>
+      <webElementGuid>c926cf46-4f85-4226-9d01-8ab705f6690e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sampah</value>
+      <webElementGuid>8231d702-16e3-4a57-9eff-e014d6caa34e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7d78adee68b187606cd7358bb6393fdb</value>
+      <webElementGuid>4dba2b80-369d-457a-b98c-a5213c146e11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'deskripsi']</value>
+      <webElementGuid>b0b9dc2e-9240-4071-8928-d20fe0816538</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'deskripsi']</value>
+      <webElementGuid>4c22a75c-0f55-4e1f-ad6d-e844aee30708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'deskripsi' and @name = 'deskripsi' and @placeholder = 'Tulis konten artikel di sini...' and (text() = 'Sampah' or . = 'Sampah')]</value>
+      <webElementGuid>ee2f496d-79b2-4f5d-8f60-3829dce0ab48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

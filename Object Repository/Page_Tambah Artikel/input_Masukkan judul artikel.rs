@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Masukkan judul artikel</name>
+   <tag></tag>
+   <elementGuidId>c23197c0-a39a-4442-a867-8d2fcab4083c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @id = 'judul' and @name = 'judul' and @placeholder = 'Masukkan judul artikel']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#judul</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'judul']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan judul artikel&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d758d3ea-16a1-4f2f-af45-52bce30af714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>737af561-a195-4af4-b9f8-d5bc13f9801d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-input</value>
+      <webElementGuid>1774efe3-8c45-4f85-894f-86846fe70d29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>judul</value>
+      <webElementGuid>2fc7b2d0-08af-4ecb-8909-3eb4e5507c31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>judul</value>
+      <webElementGuid>53a49514-f150-4fae-81d6-dd4bafccaaee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan judul artikel</value>
+      <webElementGuid>0ad071c4-d058-47af-9874-11cbd0da96ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>255</value>
+      <webElementGuid>2d8773ce-25e6-4c98-b769-4d3f9042a556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-157f08ce2668e6a1a3f1c94fcda46088</value>
+      <webElementGuid>7705a6ce-787e-40ef-8c6a-26876c290d8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'judul']</value>
+      <webElementGuid>d3b83f28-b0f1-4b0d-930e-ad0e9594c93d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'judul']</value>
+      <webElementGuid>c88fb242-3b50-49b5-ab18-027735fdca83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'judul' and @name = 'judul' and @placeholder = 'Masukkan judul artikel']</value>
+      <webElementGuid>ac516c27-28ff-4d96-b669-a54f4151d429</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

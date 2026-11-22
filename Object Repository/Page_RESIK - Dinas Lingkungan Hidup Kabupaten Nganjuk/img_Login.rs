@@ -6,12 +6,16 @@
    <elementGuidId>65e92b34-51c9-461f-9e8e-4722186c64bf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@alt = 'Login']</value>
+         <key>BASIC</key>
+         <value>//*[@src = 'http://127.0.0.1:8000/assets/button-login.png' and @alt = 'Login']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>[alt=&quot;Login&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@alt = 'Login']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>9d5854dc-8aec-460b-9192-f8bc74c13472</webElementGuid>
+      <webElementGuid>6d1d8c42-68bb-4346-ba38-0867570b21b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>src</name>
       <type>Main</type>
       <value>http://127.0.0.1:8000/assets/button-login.png</value>
-      <webElementGuid>a23b00a0-fbec-4535-a973-b36423a18ee6</webElementGuid>
+      <webElementGuid>d2f81e66-c733-4182-885b-b4c595429e79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>875dad01-04ee-4a9b-8c35-0976f17c2517</webElementGuid>
+      <webElementGuid>540a95a2-5f69-425e-8868-6b866fe0cf29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-921a61c5d8fc6c0e56fe8de7b3eea407</value>
-      <webElementGuid>d5e4351c-3c43-473c-9389-d00d63668b8c</webElementGuid>
+      <webElementGuid>0069c312-4370-408f-a09c-5edc56c59e0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@alt = 'Login']</value>
-      <webElementGuid>35ae1b5e-87e2-4ce4-9702-e71ad85a705d</webElementGuid>
+      <webElementGuid>b1803422-2c98-4165-8387-13f0a3d0faf0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@alt = 'Login']</value>
-      <webElementGuid>0f35088e-fe25-45a1-9f72-255cc6109dfc</webElementGuid>
+      <webElementGuid>1ecf9193-0ccc-4697-8ebc-1e65cc623c48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'http://127.0.0.1:8000/assets/button-login.png' and @alt = 'Login']</value>
-      <webElementGuid>3f741afd-3da9-40d5-94d2-d571163562b6</webElementGuid>
+      <webElementGuid>79569138-363c-404a-b487-8d27a0542d6f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
