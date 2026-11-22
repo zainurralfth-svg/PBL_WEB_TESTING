@@ -18,3 +18,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://127.0.0.1:8000/admin/data-pengguna?filter=all')
+
+WebUI.setText(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/input_Masukkan email Anda'), 'dikalucky1@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/input_Masukkan kata sandi'), 
+    'hUKwJTbofgPU9eVlw/CnDQ==')
+
+WebUI.click(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/button_password-toggle'))
+
+WebUI.click(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/button_Masuk'))
+
+WebUI.click(findTestObject('Page_Dashboard Admin - RESIK/a_Data Pengguna'))
+
+WebUI.setText(findTestObject('Page_Data Pengguna - RESIK/input_Cari berdasarkan nama'), '')
+
+WebUI.setText(findTestObject('Page_Data Pengguna - RESIK/input_Cari berdasarkan nama'), '')
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/a_Export Excel'))
+

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_modalSaldo</name>
+   <tag></tag>
+   <elementGuidId>6a8dda0a-a059-402c-acf1-3c200e6bea03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'modalSaldo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modalSaldo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#modalSaldo</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c35f8543-1a83-409d-83b2-10c45901bfac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>modalSaldo</value>
+      <webElementGuid>33dba6e4-3097-47c8-9197-4f5b46ad2759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp 0</value>
+      <webElementGuid>0514f93c-6d4c-4ad0-b55c-d130b5e5f482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2047f61075b23979f43705b54d9ccc73</value>
+      <webElementGuid>3ed18562-5abf-4941-a5db-1b81a73c61a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'modalSaldo']</value>
+      <webElementGuid>537b5f0a-b8e5-49ce-b9db-c15d4a182054</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'modalSaldo']</value>
+      <webElementGuid>14a81819-2c5b-45d9-816e-f6053a6e39f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'modalSaldo' and (text() = 'Rp 0' or . = 'Rp 0')]</value>
+      <webElementGuid>2616fb56-7a63-4d9d-9b36-8aa57072ee8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

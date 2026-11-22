@@ -1,6 +1,9 @@
 eclipse.preferences.version=1
 org.eclipse.core.resources.encoding=UTF-8
+<<<<<<< HEAD
 org.eclipse.jdt.core.classpath.outputOverlappingAnotherSource=ignore
+=======
+>>>>>>> 10ef841b5c9a7e3a0e5fca378e9bf2bed4e24d83
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=25
 org.eclipse.jdt.core.compiler.codegen.unusedLocal=preserve
