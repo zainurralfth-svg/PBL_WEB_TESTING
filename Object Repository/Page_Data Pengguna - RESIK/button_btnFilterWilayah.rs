@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_btnFilterWilayah</name>
+   <tag></tag>
+   <elementGuidId>9eb895be-14f3-49c4-aa89-cabe38e3be58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'btnFilterWilayah']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnFilterWilayah</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Filter&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>869e0c2a-c89c-444a-82c5-7e098c39f2ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a5dc9ade-a5e6-4190-878c-61d2a7e97e26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnFilterWilayah</value>
+      <webElementGuid>37a6974b-2fc3-4280-bea4-ec049f64f18a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-btn-action</value>
+      <webElementGuid>408413ef-c770-456d-bfb7-ad18bebf2e09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                     Filter
+                </value>
+      <webElementGuid>b69ac2be-c4fa-4c33-bf43-99348694b610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-71dcbc9106080e219f7469d5aeaeb67f</value>
+      <webElementGuid>56ac5469-89e4-494f-bf73-93f3bd55443a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'btnFilterWilayah']</value>
+      <webElementGuid>fcf3a454-ca74-4180-8f96-e81ad078111e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'btnFilterWilayah']</value>
+      <webElementGuid>bcda3048-87bd-4dcd-926e-5edf4a5ea1d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'btnFilterWilayah' and (text() = '
+                     Filter
+                ' or . = '
+                     Filter
+                ')]</value>
+      <webElementGuid>7733996d-5c7a-4251-a906-ff4f0f52a87a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

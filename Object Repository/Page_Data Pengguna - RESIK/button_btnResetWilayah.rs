@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_btnResetWilayah</name>
+   <tag></tag>
+   <elementGuidId>0cfd2621-fedb-42e8-a452-b19c928da319</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'btnResetWilayah']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnResetWilayah</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Reset&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7745325d-31f7-4a62-a758-bd4523a33d43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5a3d398e-13a1-4802-a0b0-425370ef86fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnResetWilayah</value>
+      <webElementGuid>1316a0bf-5f15-46a1-b08c-5ca89c2c04d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-btn-reset</value>
+      <webElementGuid>4d488715-fc77-464c-b2e8-b7335eae427a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                     Reset
+                </value>
+      <webElementGuid>213d8c42-0052-476c-84e2-c8d4caec9f08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-69bc2b02aab82276eb72c79d568d4a27</value>
+      <webElementGuid>b5563134-66fa-4512-a48d-5a3e680bddc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'btnResetWilayah']</value>
+      <webElementGuid>de65f580-1d13-4c1c-82aa-9f0873abdfea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'btnResetWilayah']</value>
+      <webElementGuid>f9309008-e739-4580-bacd-5782e5981c0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'btnResetWilayah' and (text() = '
+                     Reset
+                ' or . = '
+                     Reset
+                ')]</value>
+      <webElementGuid>7f657eb7-d0c1-49f3-b54f-f1a37a08694a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

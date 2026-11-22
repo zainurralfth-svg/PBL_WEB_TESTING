@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1</name>
+   <tag></tag>
+   <elementGuidId>cd49a8dd-068e-40a2-a074-722c0c28c104</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pagination ')]//*[(name() = 'li') and (position() = 2)]//a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.pagination li:nth-child(2) a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;1&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8127aac5-e685-4b8b-a67d-21a20f2e37f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://127.0.0.1:8000/admin/data-pengguna?filter=masyarakat&amp;search=&amp;kecamatan_id=&amp;desa_id=&amp;page=1</value>
+      <webElementGuid>6b32b3c7-07bc-46d4-9fa9-636b728d513f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>85d51461-a0c9-4513-8eb2-4d6d55965c71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e05c1466ea017c5645a3a3dbe46b3aad</value>
+      <webElementGuid>767d324e-3250-4c0e-985f-2275f8a16bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pagination ')]//*[(name() = 'li') and (position() = 2)]//a</value>
+      <webElementGuid>c2071f57-9733-408f-abcc-dc4c5686f0f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pagination ')]//*[(name() = 'li') and (position() = 2)]//a</value>
+      <webElementGuid>b004796a-fe87-4513-91a5-217fb1cbe6e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://127.0.0.1:8000/admin/data-pengguna?filter=masyarakat&amp;search=&amp;kecamatan_id=&amp;desa_id=&amp;page=1' and (text() = '1' or . = '1')]</value>
+      <webElementGuid>720e2281-817c-4739-8c90-610653cad280</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
