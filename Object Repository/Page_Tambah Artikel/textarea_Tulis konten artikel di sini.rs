@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Tulis konten artikel di sini</name>
+   <tag></tag>
+   <elementGuidId>be5efaae-1222-45c7-aa0d-2f17696718f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'deskripsi']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#deskripsi</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'deskripsi' and @name = 'deskripsi' and @placeholder = 'Tulis konten artikel di sini...']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Tulis konten artikel di sini...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>7f884547-3d99-417d-ba53-8e29e1b1c103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-textarea</value>
+      <webElementGuid>d68ab795-2c7d-4b72-9a2a-2e1fb5e6581c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>deskripsi</value>
+      <webElementGuid>ce2c8e63-e5d7-4ee9-80b1-574a5f4b0b64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>deskripsi</value>
+      <webElementGuid>0144803e-7aa7-4986-ba22-e9fa6e2fd94a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tulis konten artikel di sini...</value>
+      <webElementGuid>7d523e30-7dbe-456d-b22c-bc29b5b4eed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7d78adee68b187606cd7358bb6393fdb</value>
+      <webElementGuid>5a0a45c6-67c2-48c7-93d2-58b27295f652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'deskripsi']</value>
+      <webElementGuid>31d20a8c-09b3-43ed-b29d-888bb5942d97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'deskripsi']</value>
+      <webElementGuid>14d05cf5-4cf5-4050-8222-b6098e91f9b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'deskripsi' and @name = 'deskripsi' and @placeholder = 'Tulis konten artikel di sini...']</value>
+      <webElementGuid>9eb5ec02-51ba-4eec-b413-423dc580aa64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Contoh_ TPS Pasar Sukomoro</name>
+   <tag></tag>
+   <elementGuidId>2a8b6b8e-3618-4f13-bf9a-ad5a889cb92b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @name = 'nama_tps' and @placeholder = 'Contoh: TPS Pasar Sukomoro']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'nama_tps']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;nama_tps&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Contoh: TPS Pasar Sukomoro&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>45f184a0-b184-428c-9ab2-4fcdba24b733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>41cf5dbc-5ca3-4d0f-9e51-f97a499daa67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>nama_tps</value>
+      <webElementGuid>15b20b5f-4880-4c2b-a257-88fedcbd6eff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-input</value>
+      <webElementGuid>e3a1ed6e-1b13-48d5-9b61-1822f4540a46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>150</value>
+      <webElementGuid>957fe1fb-bd9d-4dab-ba5c-d4af6fb4856d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contoh: TPS Pasar Sukomoro</value>
+      <webElementGuid>cd694f53-616d-474a-ba58-9759b6d12841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1a98f5923c7439a80f158cf591320e2a</value>
+      <webElementGuid>aadac77f-7c61-4f1a-91c9-493be5d21581</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'nama_tps']</value>
+      <webElementGuid>cc32bb29-6895-4c7e-82a3-131528a3c646</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'nama_tps']</value>
+      <webElementGuid>4435d36f-2528-4a94-adc8-f6923b279c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'nama_tps' and @placeholder = 'Contoh: TPS Pasar Sukomoro']</value>
+      <webElementGuid>2a06060b-3ff5-485e-936e-11dd05e4196a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

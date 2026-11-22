@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Contoh_ Jl. Merdeka No. 15, Kel. Beran,</name>
+   <tag></tag>
+   <elementGuidId>4192db03-3882-4bf4-8eba-071983cfa736</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'alamat' and @placeholder = 'Contoh: Jl. Merdeka No. 15, Kel. Beran, Kec. Nganjuk']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'alamat']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;alamat&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Contoh: Jl. Merdeka No. 15, Kel. Beran, Kec. Nganjuk&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>886b4345-b4d0-4037-a7a7-24916572cc94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>alamat</value>
+      <webElementGuid>821c4adc-0db5-405f-b9d1-f7c715da529e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-textarea</value>
+      <webElementGuid>f66b65f3-91a1-4392-a1ff-9884d1f5ee33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>bdad9951-b6f8-4030-a3c7-dee05863a89f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contoh: Jl. Merdeka No. 15, Kel. Beran, Kec. Nganjuk</value>
+      <webElementGuid>cfe406db-a5d0-4805-9295-f46260028fd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-10ce58862ebb49f6acf0d56a68d6d263</value>
+      <webElementGuid>4237666c-8f33-49ab-a5c2-0471161deb1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'alamat']</value>
+      <webElementGuid>1a0b57f3-a65d-4dc5-a0ce-c289f01dc7a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'alamat']</value>
+      <webElementGuid>294c423a-25a3-4541-b8f1-6e12a265a50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'alamat' and @placeholder = 'Contoh: Jl. Merdeka No. 15, Kel. Beran, Kec. Nganjuk']</value>
+      <webElementGuid>e96dd769-45b4-4f79-b70e-a2450ffc60c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

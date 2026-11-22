@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_textarea -7.601478,111.943225</name>
+   <tag></tag>
+   <elementGuidId>60033d94-0b5f-4d45-93eb-4cad5cde100e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'lokasi' and @placeholder = '-7.601478,111.943225']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'lokasi']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;lokasi&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;-7.601478,111.943225&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>880274f4-4f8c-4552-991e-f225a909b158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>lokasi</value>
+      <webElementGuid>cd0750ea-37ef-4796-a344-cb8b5ee9701a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-textarea gps-textarea</value>
+      <webElementGuid>3fa7b2de-b4a5-4547-9750-65d53b07889a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>-7.601478,111.943225</value>
+      <webElementGuid>c0b6a04f-a432-468e-9371-61c84ffff404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9a31a247d1c8d0c7f3f459c0afa8c260</value>
+      <webElementGuid>56de88ce-0c20-446f-a44d-dc8677db1839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'lokasi']</value>
+      <webElementGuid>b91757a2-0abe-40b8-8068-6423edcf3ba9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'lokasi']</value>
+      <webElementGuid>9bc2dcd5-310c-4cd7-8849-0bd014191c36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'lokasi' and @placeholder = '-7.601478,111.943225']</value>
+      <webElementGuid>4194434a-1dcf-44c2-aa16-330252d960d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

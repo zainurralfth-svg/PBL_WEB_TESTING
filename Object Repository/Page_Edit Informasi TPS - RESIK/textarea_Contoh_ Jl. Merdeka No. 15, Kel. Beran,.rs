@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Contoh_ Jl. Merdeka No. 15, Kel. Beran,</name>
+   <tag></tag>
+   <elementGuidId>2e8eac60-2211-4b6b-97aa-9c77fbc3c08d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'alamat']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;alamat&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Contoh: Jl. Merdeka No. 15, Kel. Beran, Kec. Nganjuk&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>18e2ec65-a121-4ea3-8f36-a671f5af62a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>alamat</value>
+      <webElementGuid>0e1f6739-ebdb-4adc-93fa-70591cf1a2a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-textarea</value>
+      <webElementGuid>1558e925-0725-4ef7-be48-70ea6bb0155a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>63a85369-6c79-4c4e-9545-df19b4969ab6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contoh: Jl. Merdeka No. 15, Kel. Beran, Kec. Nganjuk</value>
+      <webElementGuid>d09247fe-d8f0-4f6f-8bb6-0357c9a02752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9VWX+9G2 Kauman, Kabupaten Nganjuk, Jawa Timur</value>
+      <webElementGuid>10d8bf75-77cb-4814-accf-e2cff8bfffff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-10ce58862ebb49f6acf0d56a68d6d263</value>
+      <webElementGuid>6daa3171-6e92-4307-8b06-b548d22e4f56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'alamat']</value>
+      <webElementGuid>9155224c-fbfb-49fa-850a-1c623101a338</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'alamat']</value>
+      <webElementGuid>00de3cb4-497d-45d8-a02e-d9ec32b7ff3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'alamat' and @placeholder = 'Contoh: Jl. Merdeka No. 15, Kel. Beran, Kec. Nganjuk' and (text() = '9VWX+9G2 Kauman, Kabupaten Nganjuk, Jawa Timur' or . = '9VWX+9G2 Kauman, Kabupaten Nganjuk, Jawa Timur')]</value>
+      <webElementGuid>2e96d318-a123-41c8-ad4f-531de8c69756</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

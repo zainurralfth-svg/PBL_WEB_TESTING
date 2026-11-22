@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TPS Werungoto</name>
+   <tag></tag>
+   <elementGuidId>ab5d08a0-4782-4d7e-be96-1494cbe8a513</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' XYuRPe ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.XYuRPe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;TPS Werungoto&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>909cbf12-1956-49d7-b8d2-d48f30f8e731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>035b6cd8-fc2e-46d5-b6d4-ae208392dc7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>XYuRPe</value>
+      <webElementGuid>0436f629-6bb4-40d4-bc14-a561bc640144</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TPS Werungoto</value>
+      <webElementGuid>4e7aa849-f5b3-4a0f-a5ee-cb9b528dc160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c961b1f66a45ce1b9f50955b4b2805bc</value>
+      <webElementGuid>3482eeca-bdef-4059-8a69-ce8a0efd088b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' XYuRPe ')]</value>
+      <webElementGuid>b655942b-77bf-41fa-abb3-9416e4a10b54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' XYuRPe ')]</value>
+      <webElementGuid>3ddea834-65cf-46eb-87fc-cf61a5cd249a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'TPS Werungoto' or . = 'TPS Werungoto')]</value>
+      <webElementGuid>9d671709-c8ac-41f8-9ce7-762e4997bb0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
