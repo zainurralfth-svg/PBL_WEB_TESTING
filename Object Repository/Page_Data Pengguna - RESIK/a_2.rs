@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_2</name>
+   <tag></tag>
+   <elementGuidId>ad45321b-07c8-420a-bc00-d78818b4bef2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pagination ')]//*[(name() = 'li') and (position() = 3)]//a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.pagination li:nth-child(3) a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'http://127.0.0.1:8000/admin/data-pengguna?filter=all&amp;search=&amp;kecamatan_id=&amp;desa_id=&amp;page=2' and (text() = '2' or . = '2')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;2&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>80600041-4cbb-4904-ad32-2542eb8135a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://127.0.0.1:8000/admin/data-pengguna?filter=all&amp;search=&amp;kecamatan_id=&amp;desa_id=&amp;page=2</value>
+      <webElementGuid>cd12bae5-66e6-4f72-b011-e5098a1c6068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>ce645e4e-b7b0-4b80-982c-52ce01c0d567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0a09d7e73d77f7c8562c78b12e5a43ef</value>
+      <webElementGuid>248d8a6e-411f-4418-bead-b0d7dce5bd71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pagination ')]//*[(name() = 'li') and (position() = 3)]//a</value>
+      <webElementGuid>6d60714a-d57a-4596-bb10-0c940e304145</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pagination ')]//*[(name() = 'li') and (position() = 3)]//a</value>
+      <webElementGuid>09184559-b9d9-457d-a37d-ea61b3b5ac16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://127.0.0.1:8000/admin/data-pengguna?filter=all&amp;search=&amp;kecamatan_id=&amp;desa_id=&amp;page=2' and (text() = '2' or . = '2')]</value>
+      <webElementGuid>6dca6a30-7df7-437d-8bab-397ab4b5fa10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

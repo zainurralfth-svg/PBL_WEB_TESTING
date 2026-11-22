@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_eyeIconPetugas (1)</name>
+   <tag></tag>
+   <elementGuidId>7486f02a-9d4b-4a7b-b20d-13d0e15acfa8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'eyeIconPetugas']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#eyeIconPetugas</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Toggle&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6346d0d2-9d67-41a1-b5c5-39bca5a325f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>eyeIconPetugas</value>
+      <webElementGuid>7f1ad2ef-62e4-4815-9c64-245053aa4585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://127.0.0.1:8000/assets/hide.png</value>
+      <webElementGuid>9fe0e966-fc72-47de-a849-aff47c9786d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Toggle</value>
+      <webElementGuid>99b17c0d-e94a-43b3-a113-4fe726977400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-84b986659a42836cf7a5a81807aeebf8</value>
+      <webElementGuid>ceecc50f-8c02-49ba-92bf-5d21b872d509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'eyeIconPetugas']</value>
+      <webElementGuid>2ca65a03-421b-446d-9cd1-bce25b4c952a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'eyeIconPetugas']</value>
+      <webElementGuid>3041a00b-8b64-4092-b870-6880ba833fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@id = 'eyeIconPetugas' and @src = 'http://127.0.0.1:8000/assets/hide.png' and @alt = 'Toggle']</value>
+      <webElementGuid>fdd7741c-883d-4741-84c8-d31d01243cf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
