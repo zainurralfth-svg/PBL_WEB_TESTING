@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Desa _</name>
+   <tag></tag>
+   <elementGuidId>db1838f0-a8a0-4283-bda9-2c69c5e7e438</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'id_desa']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id_desa</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'id_desa' and @id = 'id_desa' and (text() = 'Loading...' or . = 'Loading...')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Desa *&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4836aa2b-156e-41ba-a3ea-a0ac68d273f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>id_desa</value>
+      <webElementGuid>a366799e-250f-42a8-9b93-1c9af5a200d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id_desa</value>
+      <webElementGuid>48e49576-ff2a-44d4-888d-29461cd1baec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>1aff8746-df7c-47dc-b39f-5ac79de45d89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>bdde8704-68d5-4192-ad58-4540266fcb20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Loading...</value>
+      <webElementGuid>dc30e0ea-379e-4fd4-a51d-f3dec1a2a284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c53a90698cc584ec8de08491588d07dc</value>
+      <webElementGuid>4402a960-3061-41b1-87b0-bfe64c23816d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'id_desa']</value>
+      <webElementGuid>fe8d85e2-cd4d-4acb-8264-804feb290b28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'id_desa']</value>
+      <webElementGuid>6942e8db-a6e5-4227-b85c-a671cbf860d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'id_desa' and @id = 'id_desa' and (text() = 'Loading...' or . = 'Loading...')]</value>
+      <webElementGuid>d6850498-a7e1-4c1c-b502-46cd7828c0f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
