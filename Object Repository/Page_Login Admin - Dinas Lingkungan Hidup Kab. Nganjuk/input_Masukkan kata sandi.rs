@@ -3,6 +3,7 @@
    <description></description>
    <name>input_Masukkan kata sandi</name>
    <tag></tag>
+<<<<<<< HEAD
    <elementGuidId>154b7aa7-53e3-41fe-883c-3ab02b7c63e6</elementGuidId>
    <selectorCollection>
       <entry>
@@ -98,5 +99,98 @@
       <type>Main</type>
       <value>//input[@type = 'password' and @id = 'password' and @name = 'password' and @placeholder = 'Masukkan kata sandi']</value>
       <webElementGuid>e0efe61b-ad19-46a1-aeb4-35df42b24c0d</webElementGuid>
+=======
+   <elementGuidId>b4d17c76-f900-4918-ad31-b4a833fdfe4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'password']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#password</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan kata sandi&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d0bcb000-3c89-4b31-9fbb-faa13a40f01a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>248487c0-ebfa-4d92-b0eb-6c032a8d94c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>034db760-6f7d-4618-a41b-5d1bd0b87983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>490a526d-8fd5-4937-b015-42055aad5a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan kata sandi</value>
+      <webElementGuid>8b4f9097-7bbf-47cb-9f93-85b83b7441a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9e9af563cb0d5d92f852b4749a4d17cd</value>
+      <webElementGuid>8eef61ba-3aa2-4345-a92a-11ef12c72716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'password']</value>
+      <webElementGuid>86ccb999-f334-48a5-839c-dae61a87b219</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'password']</value>
+      <webElementGuid>fdd1318f-62a1-42fb-bf4d-b40bffa33cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @id = 'password' and @name = 'password' and @placeholder = 'Masukkan kata sandi']</value>
+      <webElementGuid>978d4d31-ce36-4cda-a748-10a1cbd8d07f</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/zainurralfth-svg/PBL_WEB_TESTING.git
    </webElementXpaths>
 </WebElementEntity>

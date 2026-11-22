@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_TENTANG KAMI (3)</name>
+   <tag></tag>
+   <elementGuidId>829c1ac5-5164-4d5d-968c-5af6c58bd3c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-link ') and (@href = '#tentang')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.nav-link[href=&quot;\#tentang&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;TENTANG KAMI&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b04c49a6-b1c8-449e-bb8a-bbe879784dbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#tentang</value>
+      <webElementGuid>4cc18eb4-c932-42a0-9f2b-8812e2ff9545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>44e712b4-dc0e-4900-a81c-8900e88a54b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TENTANG KAMI</value>
+      <webElementGuid>300a2897-a742-4501-854a-8000cb0b1c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a77c6c722b07e4127459b5abc0efb498</value>
+      <webElementGuid>933c6c3a-f92f-4aa1-9867-e3bd2747f7a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-link ') and (@href = '#tentang')]</value>
+      <webElementGuid>7d099c80-4746-4256-a80a-ea680cd1f393</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-link ') and (@href = '#tentang')]</value>
+      <webElementGuid>dce70211-e4bc-471e-8ff4-44ff5b5caa81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#tentang' and (text() = 'TENTANG KAMI' or . = 'TENTANG KAMI')]</value>
+      <webElementGuid>f29d52a6-a3b3-4479-b7e3-969ba0ec868c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

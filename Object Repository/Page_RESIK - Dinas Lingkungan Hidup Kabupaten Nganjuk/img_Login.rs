@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Login</name>
+   <tag></tag>
+   <elementGuidId>65e92b34-51c9-461f-9e8e-4722186c64bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@alt = 'Login']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[alt=&quot;Login&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Login LOGIN ADMIN&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9d5854dc-8aec-460b-9192-f8bc74c13472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://127.0.0.1:8000/assets/button-login.png</value>
+      <webElementGuid>a23b00a0-fbec-4535-a973-b36423a18ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>875dad01-04ee-4a9b-8c35-0976f17c2517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-921a61c5d8fc6c0e56fe8de7b3eea407</value>
+      <webElementGuid>d5e4351c-3c43-473c-9389-d00d63668b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@alt = 'Login']</value>
+      <webElementGuid>35ae1b5e-87e2-4ce4-9702-e71ad85a705d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@alt = 'Login']</value>
+      <webElementGuid>0f35088e-fe25-45a1-9f72-255cc6109dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://127.0.0.1:8000/assets/button-login.png' and @alt = 'Login']</value>
+      <webElementGuid>3f741afd-3da9-40d5-94d2-d571163562b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

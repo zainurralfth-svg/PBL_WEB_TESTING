@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Logam</name>
+   <tag></tag>
+   <elementGuidId>73c0a183-02e7-4d0d-98c0-9cb7d2ab0308</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@alt = 'Logam']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[alt=&quot;Logam&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Logam&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b29b2163-6aa2-46a6-b3ff-4a297249b5a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://127.0.0.1:8000/assets/jenis-non-logam.png</value>
+      <webElementGuid>6c9dd0c1-f678-4336-99bd-f41ab18340f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Logam</value>
+      <webElementGuid>a93f89a5-cabe-4819-98c4-58c43c2ed22c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-359a173dcf5282dbb3caacff806ac091</value>
+      <webElementGuid>8947ed13-c7fe-4156-9962-36879cdb95e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@alt = 'Logam']</value>
+      <webElementGuid>874be005-1a38-4916-b5d9-d1b6177d1955</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@alt = 'Logam']</value>
+      <webElementGuid>ec626ecc-9070-4454-90e4-79a38feec4d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://127.0.0.1:8000/assets/jenis-non-logam.png' and @alt = 'Logam']</value>
+      <webElementGuid>a883e9bb-018e-4418-8bdb-29d6d726c7e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

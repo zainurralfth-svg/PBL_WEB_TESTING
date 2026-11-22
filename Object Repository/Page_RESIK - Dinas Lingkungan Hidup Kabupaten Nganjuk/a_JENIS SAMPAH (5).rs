@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_JENIS SAMPAH (5)</name>
+   <tag></tag>
+   <elementGuidId>7106f5e9-2a1a-4d08-9ddb-b1a94a65d948</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-link ') and (@href = '#jenis')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.nav-link[href=&quot;\#jenis&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;JENIS SAMPAH&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>50ac8396-84d0-433d-99bc-989f08ca1fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#jenis</value>
+      <webElementGuid>21f9ea92-babf-414d-973d-939e13cafe7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>8692e8bf-0843-4c6b-ada1-08efa05f8d19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JENIS SAMPAH</value>
+      <webElementGuid>71bf464b-8e1e-466c-b537-875b4bd5ebfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3736e883da04e53ef4ef08bff2974c72</value>
+      <webElementGuid>1b14fa82-96cf-42a1-b4f3-637490ac70fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-link ') and (@href = '#jenis')]</value>
+      <webElementGuid>cfc24930-6a94-4a1b-a82b-1854e25366cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-link ') and (@href = '#jenis')]</value>
+      <webElementGuid>6f3d9af2-c8b9-48e2-b7fa-47569d0fcaea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#jenis' and (text() = 'JENIS SAMPAH' or . = 'JENIS SAMPAH')]</value>
+      <webElementGuid>564e53f3-d4db-4412-a6ca-d9bf1e75f0dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

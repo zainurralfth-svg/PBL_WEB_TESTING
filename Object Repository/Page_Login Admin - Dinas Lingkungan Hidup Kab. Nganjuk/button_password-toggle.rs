@@ -3,6 +3,7 @@
    <description></description>
    <name>button_password-toggle</name>
    <tag></tag>
+<<<<<<< HEAD
    <elementGuidId>b4969122-47d6-4b72-bcdb-6ce3f17923c6</elementGuidId>
    <selectorCollection>
       <entry>
@@ -90,5 +91,90 @@
       <type>Main</type>
       <value>//button[@type = 'button']</value>
       <webElementGuid>839b66ed-fd5a-44b5-9c3c-17d35f424aa2</webElementGuid>
+=======
+   <elementGuidId>d9af398a-d7b6-434e-addd-c1de12b0195e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' password-toggle ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.password-toggle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Toggle visibility&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>75f22b1a-8497-4617-9c7e-3265b7af819a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a1335faf-d078-4444-9136-329cf0c5fe13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>password-toggle</value>
+      <webElementGuid>ead25384-4519-4cf6-90d5-9abe09ff5440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>togglePasswordVisibility()</value>
+      <webElementGuid>0a250b99-067a-45c7-9353-ccf8095c727d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-26de4323d451f13220abc32f73b61ed4</value>
+      <webElementGuid>7f224086-49d9-478a-8431-7693e1006200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' password-toggle ')]</value>
+      <webElementGuid>a5a239f8-39b0-4274-9bdd-f9e10652964a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' password-toggle ')]</value>
+      <webElementGuid>0e8b6bd5-b966-4479-80d1-cb20cd41631e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>18b1a703-d847-494a-b84f-a40fa66c4ce5</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/zainurralfth-svg/PBL_WEB_TESTING.git
    </webElementXpaths>
 </WebElementEntity>

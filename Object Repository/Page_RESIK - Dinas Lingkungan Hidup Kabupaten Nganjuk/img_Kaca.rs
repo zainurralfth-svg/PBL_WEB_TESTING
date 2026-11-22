@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Kaca</name>
+   <tag></tag>
+   <elementGuidId>2e36fff3-4660-46ed-8880-857f60020e99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@alt = 'Kaca']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[alt=&quot;Kaca&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Kaca&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9194b716-d71a-45d1-87cb-08a1a3e47625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://127.0.0.1:8000/assets/jenis-non-kaca.png</value>
+      <webElementGuid>f9a1d571-b8bb-4c54-a39e-9b32bada1133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Kaca</value>
+      <webElementGuid>40fb2691-d57c-407b-9cb5-5c4cce160f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-bf59e7e44ab1582f7a4231ca46674711</value>
+      <webElementGuid>d8e13ce2-0c4f-442d-b468-45b23ed32a27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@alt = 'Kaca']</value>
+      <webElementGuid>f3b89a64-dc96-4bcc-b244-895cdad3bc86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@alt = 'Kaca']</value>
+      <webElementGuid>0415464c-f3e9-42c6-9d32-dc0a5a26afa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://127.0.0.1:8000/assets/jenis-non-kaca.png' and @alt = 'Kaca']</value>
+      <webElementGuid>7e511646-daca-4627-bba3-2d41bee86597</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
