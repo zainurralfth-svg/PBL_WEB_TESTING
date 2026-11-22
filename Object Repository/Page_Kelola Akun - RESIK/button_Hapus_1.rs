@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Hapus_1</name>
+   <tag></tag>
+   <elementGuidId>6f08326d-fc1b-402a-b3d5-0295fcaf135b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-child(1) .btn-delete</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'tr') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-delete ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 cikal cikalmada8@gmail.com 082132384305 Petugas DLH •••••••• Edit Hapus&quot;i] >> internal:attr=[title=&quot;Hapus&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a16ef0d2-b51a-4aca-9c06-eed4804d5e2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>confirmDelete(32)</value>
+      <webElementGuid>bda2f85c-d3a9-44be-8ffc-78a54bb69afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-icon btn-delete</value>
+      <webElementGuid>86917d78-f257-4613-b23a-76caef352a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Hapus</value>
+      <webElementGuid>2e36a8a5-f30b-4b53-b4de-5be2c251f87e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-db638712c0e6fb7c37ae03430293bb18</value>
+      <webElementGuid>66d603b6-b2ae-473a-8ecc-05eb9398b2a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-delete ')]</value>
+      <webElementGuid>5559c9eb-b61e-47fb-a474-6581a8a8cfc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-delete ')]</value>
+      <webElementGuid>fdbc54b7-c994-4266-98c9-ca983f56e1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Hapus']</value>
+      <webElementGuid>62953bab-58c7-4fa4-af25-143b485bf3fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

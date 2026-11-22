@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Edit</name>
+   <tag></tag>
+   <elementGuidId>41998e17-60fa-400f-86a7-681e26c692c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-child(1) [alt=&quot;Edit&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'tr') and (position() = 1)]//*[@alt = 'Edit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 roziq cikalmada8@gmail.com 082132384305 Desa GANDU (Gandu, Bagor) •••••••• Edit Hapus&quot;i] >> internal:attr=[title=&quot;Edit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>af690e3d-d3bf-4db7-a8e9-b55592c4ef63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://127.0.0.1:8000/assets/icons/edit.png</value>
+      <webElementGuid>38cb6286-a7e8-4dc5-a12d-5ebbc3c8c9c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>d4cb6516-9109-493b-be32-d6367e2586ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-bf5d60ea6d23423fc7fc4e6acd465ef6</value>
+      <webElementGuid>ef685f26-68b9-4439-b920-90320677ebbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[@alt = 'Edit']</value>
+      <webElementGuid>1b2dfda3-2e50-45fb-8d6a-75f9450c4161</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[@alt = 'Edit']</value>
+      <webElementGuid>009273e1-761d-4844-8fd1-eb107ce36930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://127.0.0.1:8000/assets/icons/edit.png' and @alt = 'Edit']</value>
+      <webElementGuid>58905430-5a59-4e07-a9ba-7b386ea6f178</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

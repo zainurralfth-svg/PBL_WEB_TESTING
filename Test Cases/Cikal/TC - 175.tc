@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 175</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Rozhii Fdk</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E CIKAL ARYA MADA</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>0e64238b-434d-4bbc-99f3-481c1c2f2537</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>762330cb-049b-4064-9af5-2452a4c17c70</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56f264fb-589e-4904-a2ba-0047c78115a6</testCaseGuid>
+</TestCaseEntity>

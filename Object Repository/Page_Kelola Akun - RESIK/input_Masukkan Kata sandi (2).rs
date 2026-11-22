@@ -3,6 +3,18 @@
    <description></description>
    <name>input_Masukkan Kata sandi (2)</name>
    <tag></tag>
+<<<<<<< HEAD
+   <elementGuidId>1c5375ce-719c-4eb5-8210-f9699a1a0421</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#passwordPetugas</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'passwordPetugas']</value>
+      </entry>
+=======
    <elementGuidId>c8d45798-a528-41ef-a427-6bfd51196170</elementGuidId>
    <selectorCollection>
       <entry>
@@ -13,6 +25,7 @@
          <key>CSS</key>
          <value>#passwordPetugas</value>
       </entry>
+>>>>>>> 10ef841b5c9a7e3a0e5fca378e9bf2bed4e24d83
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
@@ -29,7 +42,11 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+<<<<<<< HEAD
+      <webElementGuid>ebfe9b92-147b-4abd-945e-1439514dc073</webElementGuid>
+=======
       <webElementGuid>8ffb87c1-6a36-4361-90bf-f9f708e9c6b2</webElementGuid>
+>>>>>>> 10ef841b5c9a7e3a0e5fca378e9bf2bed4e24d83
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +54,11 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
+<<<<<<< HEAD
+      <webElementGuid>6dc89775-f779-4d91-b622-7e2bcec2435e</webElementGuid>
+=======
       <webElementGuid>497bf1d0-cf93-46ff-abf2-077ca6de6dbc</webElementGuid>
+>>>>>>> 10ef841b5c9a7e3a0e5fca378e9bf2bed4e24d83
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +66,11 @@
       <name>id</name>
       <type>Main</type>
       <value>passwordPetugas</value>
+<<<<<<< HEAD
+      <webElementGuid>f829b56e-304d-42a1-a51c-8cb60e77a973</webElementGuid>
+=======
       <webElementGuid>126ad773-6ac9-4bac-a74b-58916d5d3487</webElementGuid>
+>>>>>>> 10ef841b5c9a7e3a0e5fca378e9bf2bed4e24d83
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +78,11 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
+<<<<<<< HEAD
+      <webElementGuid>cbbfd06c-643c-4ee2-955b-a7fe2d7d633e</webElementGuid>
+=======
       <webElementGuid>b0b2bcd8-8cd0-444d-9e7a-7c799817b50a</webElementGuid>
+>>>>>>> 10ef841b5c9a7e3a0e5fca378e9bf2bed4e24d83
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +90,11 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan Kata sandi</value>
+<<<<<<< HEAD
+      <webElementGuid>9efb0ec4-f5b2-41e0-b8ad-6b47bb4ac98c</webElementGuid>
+=======
       <webElementGuid>f948ecb4-2117-4a75-a948-375d1bbdcd39</webElementGuid>
+>>>>>>> 10ef841b5c9a7e3a0e5fca378e9bf2bed4e24d83
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +102,11 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-81e8b0cf21fe01e9b037af6f21e092a8</value>
+<<<<<<< HEAD
+      <webElementGuid>2dbde437-6b94-479b-8607-7f297b917737</webElementGuid>
+=======
       <webElementGuid>2235c8ec-2336-4376-9a97-de0c3113f2e5</webElementGuid>
+>>>>>>> 10ef841b5c9a7e3a0e5fca378e9bf2bed4e24d83
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +114,11 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'passwordPetugas']</value>
+<<<<<<< HEAD
+      <webElementGuid>f0006fc6-72ac-42d5-99fc-dcc6a11741b7</webElementGuid>
+=======
       <webElementGuid>c521cdf6-6d04-408a-af14-764df39d8ff4</webElementGuid>
+>>>>>>> 10ef841b5c9a7e3a0e5fca378e9bf2bed4e24d83
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +126,11 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'passwordPetugas']</value>
+<<<<<<< HEAD
+      <webElementGuid>a3c232d6-8d6d-4aee-8bb3-2b64b8fa0979</webElementGuid>
+=======
       <webElementGuid>96e5571e-496b-40e6-8467-07056acb5087</webElementGuid>
+>>>>>>> 10ef841b5c9a7e3a0e5fca378e9bf2bed4e24d83
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +138,10 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @id = 'passwordPetugas' and @name = 'password' and @placeholder = 'Masukkan Kata sandi']</value>
+<<<<<<< HEAD
+      <webElementGuid>97456d5f-22de-4bd0-9f4b-49b7057ec52f</webElementGuid>
+=======
       <webElementGuid>855a8fad-6318-46fd-b084-ce3480ad1bd2</webElementGuid>
+>>>>>>> 10ef841b5c9a7e3a0e5fca378e9bf2bed4e24d83
    </webElementXpaths>
 </WebElementEntity>
