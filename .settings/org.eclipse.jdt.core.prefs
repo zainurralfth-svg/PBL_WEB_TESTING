@@ -1,12 +1,20 @@
 eclipse.preferences.version=1
+org.eclipse.core.resources.encoding=UTF-8
+<<<<<<< HEAD
+org.eclipse.jdt.core.classpath.outputOverlappingAnotherSource=ignore
+=======
+<<<<<<< HEAD
+org.eclipse.jdt.core.classpath.outputOverlappingAnotherSource=ignore
+=======
+>>>>>>> 10ef841b5c9a7e3a0e5fca378e9bf2bed4e24d83
+>>>>>>> 9891dcff40f26e401fb31fac3e51e1ae535e47fd
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
-org.eclipse.jdt.core.compiler.codegen.targetPlatform=21
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=25
 org.eclipse.jdt.core.compiler.codegen.unusedLocal=preserve
-org.eclipse.jdt.core.compiler.compliance=21
+org.eclipse.jdt.core.compiler.compliance=25
 org.eclipse.jdt.core.compiler.debug.lineNumber=generate
 org.eclipse.jdt.core.compiler.debug.localVariable=generate
 org.eclipse.jdt.core.compiler.debug.sourceFile=generate
 org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
 org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
-org.eclipse.jdt.core.compiler.source=21
-org.eclipse.core.resources.encoding=UTF-8
+org.eclipse.jdt.core.compiler.source=25

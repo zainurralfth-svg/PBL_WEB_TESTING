@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Desa</name>
+   <tag></tag>
+   <elementGuidId>77772f0c-f48f-46ca-a0b0-2605a91fee33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'desaSelect']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#desaSelect</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Desa&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ac44650f-2eb5-4349-8c13-7e455192c91a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>desaSelect</value>
+      <webElementGuid>3f5f7d6a-87f3-4549-a837-343340f6920b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Pilih Desa --BabadanBanaranBatembatBodorCermeGemenggengGondangJampesJatigregesJetisJohoKecubungKepanjenMlandanganPace WetanPacekulonPlosoharjoSanan</value>
+      <webElementGuid>80b3eec9-2681-47c7-bcc0-d82078aa8fcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b0e1e7ab3cf88c59647282518e292641</value>
+      <webElementGuid>166520ce-01a9-4790-8dcf-51283f0f588c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'desaSelect']</value>
+      <webElementGuid>ad7172ae-9639-4c94-800b-7ee08b9f0070</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'desaSelect']</value>
+      <webElementGuid>996c4c6e-56e3-4a1e-9971-08e657611aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'desaSelect' and (text() = '-- Pilih Desa --BabadanBanaranBatembatBodorCermeGemenggengGondangJampesJatigregesJetisJohoKecubungKepanjenMlandanganPace WetanPacekulonPlosoharjoSanan' or . = '-- Pilih Desa --BabadanBanaranBatembatBodorCermeGemenggengGondangJampesJatigregesJetisJohoKecubungKepanjenMlandanganPace WetanPacekulonPlosoharjoSanan')]</value>
+      <webElementGuid>0c01985d-889a-400c-a655-b654fd7273cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

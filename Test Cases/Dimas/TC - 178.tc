@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 178</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Rozhii Fdk</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>e41252353</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>0e64238b-434d-4bbc-99f3-481c1c2f2537</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>bcbd0619-0dfd-490b-acc0-00f62cee53da</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b4df0896-10fd-4e72-b1bc-b988b23cc7ff</testCaseGuid>
+</TestCaseEntity>

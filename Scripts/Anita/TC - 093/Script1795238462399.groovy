@@ -18,3 +18,86 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://127.0.0.1:8000/admin/data-pengguna?filter=all')
+
+WebUI.setText(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/input_Masukkan email Anda'), 'dikalucky1@gmail.com')
+
+WebUI.click(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/input_Masukkan kata sandi'))
+
+WebUI.click(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/button_password-toggle'))
+
+WebUI.setEncryptedText(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/input_Masukkan kata sandi'), 
+    'hUKwJTbofgPU9eVlw/CnDQ==')
+
+WebUI.click(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/button_Masuk'))
+
+WebUI.click(findTestObject('Page_Dashboard Admin - RESIK/a_Data Pengguna'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/td_Farida Novalia'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/td_1'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/td_081234057231'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/span_Masyarakat (Kertosono, Pandantoyo)'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/i_fas fa-eye'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/button_'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/button_Detail'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/div_Nama Lengkap'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/label_Saldo Bank Sampah'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/span_modalSaldo'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/button_Tutup'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/span_Prev'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/a_2'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/i_fas fa-eye_1'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/button_Tutup'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/a_Next'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/a_ASN _ PNS'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/td_Lilis Maretnaningsih'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/td_maretna22gmail.com'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/span_Perempuan'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/td_082119556866'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/th_Pekerjaan'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/td_Rp 0'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/i_fas fa-eye_2'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/button_'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/button_Detail_1'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/button_Tutup'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/a_Masyarakat'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/button_Detail_2'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/button_Tutup'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/i_fas fa-eye_3'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/button_'))
+
+WebUI.click(findTestObject('Page_Data Pengguna - RESIK/a_2_1'))
+
