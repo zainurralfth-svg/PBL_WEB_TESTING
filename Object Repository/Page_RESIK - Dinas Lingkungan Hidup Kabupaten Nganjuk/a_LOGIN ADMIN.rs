@@ -6,19 +6,29 @@
    <elementGuidId>a9b21922-ff23-4551-8048-be69ecdd2062</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
+         <key>BASIC</key>
+         <value>//*[@href = 'http://127.0.0.1:8000/admin/login' and (text() = '
+                    
+                    LOGIN ADMIN
+                ' or . = '
+                    
+                    LOGIN ADMIN
+                ')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>.btn-login</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Login LOGIN ADMIN&quot;i]</value>
+         <value></value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +39,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>afd5d7f0-65a1-4f9b-9cc6-93d290281ab4</webElementGuid>
+      <webElementGuid>149bd6e3-ca0b-4e65-bcad-a3568ac20337</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +47,7 @@
       <name>href</name>
       <type>Main</type>
       <value>http://127.0.0.1:8000/admin/login</value>
-      <webElementGuid>a97d7101-e7e2-4f68-a057-959f37da4d72</webElementGuid>
+      <webElementGuid>2bfa5789-b1a0-48a8-9ced-3d5b9e49f585</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-login</value>
-      <webElementGuid>459fdf6d-6e4c-47b3-9de8-e4f2ba750729</webElementGuid>
+      <webElementGuid>8311837c-22fb-464d-8da5-eaef07ec957a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -56,7 +66,7 @@
                     
                     LOGIN ADMIN
                 </value>
-      <webElementGuid>1278a95b-6d2e-446f-b6ef-e886ae147cf6</webElementGuid>
+      <webElementGuid>ec2bffde-7b37-4d76-8360-f202f2999751</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,7 +74,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-17426622019fb48d4e9d8381918d3b46</value>
-      <webElementGuid>9569de7f-742c-4aea-89fb-3e14b9d95fc7</webElementGuid>
+      <webElementGuid>973db000-5a82-45fc-bbd9-2b62bd46be4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
-      <webElementGuid>ea227822-f40f-4780-a98e-31774574d295</webElementGuid>
+      <webElementGuid>d389f162-0b2b-4dd1-b25a-014d09cc0ad8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-login ')]</value>
-      <webElementGuid>a65663f9-ac46-44d4-bc50-1d8521d9ca8c</webElementGuid>
+      <webElementGuid>acc51bfb-c401-4388-a922-64d20a25dab3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +104,6 @@
                     
                     LOGIN ADMIN
                 ')]</value>
-      <webElementGuid>ab83ea87-c215-4cda-a804-33d7f09b1b2a</webElementGuid>
+      <webElementGuid>264067e7-abd1-40bf-95ca-f9709c37fd7c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

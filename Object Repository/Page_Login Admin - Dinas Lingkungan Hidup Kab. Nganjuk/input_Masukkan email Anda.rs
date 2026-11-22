@@ -3,7 +3,6 @@
    <description></description>
    <name>input_Masukkan email Anda</name>
    <tag></tag>
-<<<<<<< HEAD
    <elementGuidId>11dbd4e5-cb16-410c-bf06-30f9621e8df4</elementGuidId>
    <selectorCollection>
       <entry>
@@ -107,106 +106,5 @@
       <type>Main</type>
       <value>//input[@type = 'email' and @id = 'email' and @name = 'email' and @placeholder = 'Masukkan email Anda']</value>
       <webElementGuid>540d0c57-755e-4f81-a3b0-b92a1831bc89</webElementGuid>
-=======
-   <elementGuidId>04233c17-21ef-4101-b979-bb0fb3f1de58</elementGuidId>
-   <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'email']</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>#email</value>
-      </entry>
-   </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Masukkan email Anda&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
-   <useRalativeImagePath>true</useRalativeImagePath>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>input</value>
-      <webElementGuid>c47acf41-a62a-4ded-9dd3-d94ea148b6cf</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>6024eccc-dc9c-410b-aa23-ae65276480a9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>4e6d9bee-6c03-4676-9d78-0db3c4101093</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>6359eb74-379f-46e9-954a-5b2b0c80d5c4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>1a3f8a4f-ba5f-4b1f-a96a-768dbbe62ac2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Masukkan email Anda</value>
-      <webElementGuid>3729b302-bc44-40d7-bdc7-44fa05a798d1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>parent</name>
-      <type>Main</type>
-      <value>md5.v1-5b9ce64e1b01ab27ccfccd2252edf06f</value>
-      <webElementGuid>96fd6ad2-663b-4cf4-a1b5-5b6d9a3b15ae</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>//*[@id = 'email']</value>
-      <webElementGuid>0dc0f015-373e-4ecd-95b8-223877504f54</webElementGuid>
-   </webElementProperties>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//*[@id = 'email']</value>
-      <webElementGuid>97bec8b9-899b-4e2f-970b-719484ed37be</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'email' and @id = 'email' and @name = 'email' and @placeholder = 'Masukkan email Anda']</value>
-      <webElementGuid>2c0ca0ec-223b-40ee-9b15-7281f1164126</webElementGuid>
->>>>>>> branch 'main' of https://github.com/zainurralfth-svg/PBL_WEB_TESTING.git
    </webElementXpaths>
 </WebElementEntity>
