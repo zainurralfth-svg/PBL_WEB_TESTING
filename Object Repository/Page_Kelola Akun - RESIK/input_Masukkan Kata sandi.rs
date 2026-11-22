@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Masukkan Kata sandi</name>
+   <tag></tag>
+   <elementGuidId>24079c4e-398f-4822-b0ac-1737b7a72906</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#passwordPetugas</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'passwordPetugas']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'password' and @id = 'passwordPetugas' and @name = 'password' and @placeholder = 'Masukkan Kata sandi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan Kata sandi&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>dd7c3abd-8545-45a4-be70-93cd746222ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>60cc135a-e23d-4d21-9751-b7020fdba163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>passwordPetugas</value>
+      <webElementGuid>ecec62b4-b8be-4cb3-b9e3-fd6cff932c4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>d3581c46-e993-40f3-a3f0-1963ce606340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan Kata sandi</value>
+      <webElementGuid>ee2d8f26-2f65-4b0d-a671-6067b3629665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-81e8b0cf21fe01e9b037af6f21e092a8</value>
+      <webElementGuid>f2cab614-f2bb-4767-9adb-3b53d5f28eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'passwordPetugas']</value>
+      <webElementGuid>3c1f147f-77a1-41cb-b66f-a9318adeb797</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'passwordPetugas']</value>
+      <webElementGuid>56360de8-7f9b-4b5f-875e-b6c3c63c2d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @id = 'passwordPetugas' and @name = 'password' and @placeholder = 'Masukkan Kata sandi']</value>
+      <webElementGuid>119802c4-97d6-4fe6-9efc-732ed3dfde0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

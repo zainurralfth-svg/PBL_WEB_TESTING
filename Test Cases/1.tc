@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>E CIKAL ARYA MADA</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E CIKAL ARYA MADA</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>762330cb-049b-4064-9af5-2452a4c17c70</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>762330cb-049b-4064-9af5-2452a4c17c70</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f67d138b-7a0a-4079-9cf3-0f09bb6c43c7</testCaseGuid>
+</TestCaseEntity>

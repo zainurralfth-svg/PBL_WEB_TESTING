@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Masukkan nama petugas</name>
+   <tag></tag>
+   <elementGuidId>8265eb2d-52b3-450b-a213-7d207e225072</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#namaLengkap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'namaLengkap']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @id = 'namaLengkap' and @name = 'nama_lengkap' and @placeholder = 'Masukkan nama petugas']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan nama petugas&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a1a30689-a673-473f-8a7f-68627a5ac6fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9d1ef0af-44d8-4754-a1f1-26b839647532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>namaLengkap</value>
+      <webElementGuid>8e9ea8e4-9ebe-421d-a0ad-91ca10ac2980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>nama_lengkap</value>
+      <webElementGuid>fef091a7-7385-4186-a5c9-ab4a7b091695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan nama petugas</value>
+      <webElementGuid>856c23ce-d9ef-4f5a-8d78-490e8b1e9410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9a482815d674be5a9f9692482915b71b</value>
+      <webElementGuid>ca7cdb8f-22e3-41ef-b2ed-5eb272cf6895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'namaLengkap']</value>
+      <webElementGuid>2d41bb32-1b79-4df2-9be1-4d4f9a446ccc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'namaLengkap']</value>
+      <webElementGuid>4a4df125-ea7c-458a-9ed0-1a25d8ec7de2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'namaLengkap' and @name = 'nama_lengkap' and @placeholder = 'Masukkan nama petugas']</value>
+      <webElementGuid>df3bb89e-4930-448b-80f4-27097bd4fe84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

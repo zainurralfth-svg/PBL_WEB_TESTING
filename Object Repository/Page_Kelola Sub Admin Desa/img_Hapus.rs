@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Hapus</name>
+   <tag></tag>
+   <elementGuidId>d3a1a819-df07-4e49-9a55-93f3c20fcc31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-child(1) [alt=&quot;Hapus&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'tr') and (position() = 1)]//*[@alt = 'Hapus']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 cikal cikalmada8@gmail.com 082132384305 Desa GANDU (Gandu, Bagor) •••••••• Edit Hapus&quot;i] >> internal:attr=[title=&quot;Hapus&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a46386e9-5d4a-4678-a63d-c2a436debef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://127.0.0.1:8000/assets/icons/delete.png</value>
+      <webElementGuid>01bf5b0c-ded0-47ea-9b3d-c70c25d8d574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Hapus</value>
+      <webElementGuid>30d15c25-b0d6-483c-be18-46ae21c7cdae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-288ca94c082d8fbd026dfdd369be89f1</value>
+      <webElementGuid>4694ea6d-8b6f-4664-b579-7843de603826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[@alt = 'Hapus']</value>
+      <webElementGuid>69e5681b-5f2b-4b15-815b-75fee71269be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[@alt = 'Hapus']</value>
+      <webElementGuid>29bbbce5-7853-4231-ac7d-5e4e7df2fa8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://127.0.0.1:8000/assets/icons/delete.png' and @alt = 'Hapus']</value>
+      <webElementGuid>574fcfe5-5df0-40c4-800f-0f0a7c4eed9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
