@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e09ebf2a-d95e-41c3-919e-3f550ef70e67</webElementGuid>
+      <webElementGuid>f7d94ba3-3dc6-49bc-a1e7-5584a65ad1c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>72f9fffd-8c1b-4ff4-9137-5f271041f62a</webElementGuid>
+      <webElementGuid>73c49dc5-3ae4-4ed9-a7f3-7d41530a4619</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>id</name>
       <type>Main</type>
       <value>fotoInput</value>
-      <webElementGuid>6272b03b-0e23-4133-b13b-51bfd5eb7be5</webElementGuid>
+      <webElementGuid>09ed4e86-87b0-4c45-888f-61d5626e9ce7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>name</name>
       <type>Main</type>
       <value>foto</value>
-      <webElementGuid>1caf5087-46b2-4d60-aaab-e833a0a18da3</webElementGuid>
+      <webElementGuid>e11cadce-5d14-44a4-82aa-03c351b7b9a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>accept</name>
       <type>Main</type>
       <value>image/jpeg,image/png,image/gif</value>
-      <webElementGuid>6f84b1dc-fb81-4eeb-97dd-5b95d8fe22bd</webElementGuid>
+      <webElementGuid>483aee0b-d3e8-44f2-aa21-31c3b459f0e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-e58113183395eef192a4953cd9226910</value>
-      <webElementGuid>570f819a-cccb-4628-9112-ddcf48c314b4</webElementGuid>
+      <webElementGuid>bcb14df4-88da-44d1-8a04-cbb1f74f8a17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'fotoInput']</value>
-      <webElementGuid>d6edb1be-1b9c-43ba-8aa9-6a2cff43f4bc</webElementGuid>
+      <webElementGuid>798d61d2-a028-490d-beef-d1fc98240ec9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'fotoInput']</value>
-      <webElementGuid>4d0c34ed-8950-41aa-9c6f-63ec7cc034f2</webElementGuid>
+      <webElementGuid>f949cf72-066b-48c3-9c08-9f5e18f5b330</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'file' and @id = 'fotoInput' and @name = 'foto']</value>
-      <webElementGuid>e1de20e3-e995-41af-819a-1c14cd3f71ab</webElementGuid>
+      <webElementGuid>b46c5571-b2fb-4991-900f-b5a6143040a7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

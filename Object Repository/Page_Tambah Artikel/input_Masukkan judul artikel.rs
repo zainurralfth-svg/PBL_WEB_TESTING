@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d758d3ea-16a1-4f2f-af45-52bce30af714</webElementGuid>
+      <webElementGuid>235e6b1a-4dee-48f7-9bf9-a5a287687842</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>737af561-a195-4af4-b9f8-d5bc13f9801d</webElementGuid>
+      <webElementGuid>ee2dec64-8e4b-451f-8299-9b6288fff4c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-input</value>
-      <webElementGuid>1774efe3-8c45-4f85-894f-86846fe70d29</webElementGuid>
+      <webElementGuid>4270114f-fd12-4ebc-851f-97fe204a29f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>id</name>
       <type>Main</type>
       <value>judul</value>
-      <webElementGuid>2fc7b2d0-08af-4ecb-8909-3eb4e5507c31</webElementGuid>
+      <webElementGuid>49202db9-e8be-4c55-b545-d533c19b7682</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>name</name>
       <type>Main</type>
       <value>judul</value>
-      <webElementGuid>53a49514-f150-4fae-81d6-dd4bafccaaee</webElementGuid>
+      <webElementGuid>8e918b66-5bab-4ed0-b44c-beb54d2e902e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan judul artikel</value>
-      <webElementGuid>0ad071c4-d058-47af-9874-11cbd0da96ed</webElementGuid>
+      <webElementGuid>3908f4ef-1d17-4145-bc40-5ec2d7988315</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>2d8773ce-25e6-4c98-b769-4d3f9042a556</webElementGuid>
+      <webElementGuid>606fc816-8fbf-4943-8677-9907e14cad1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-157f08ce2668e6a1a3f1c94fcda46088</value>
-      <webElementGuid>7705a6ce-787e-40ef-8c6a-26876c290d8d</webElementGuid>
+      <webElementGuid>cdbbbafe-4276-44be-aa32-3b456a5030ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'judul']</value>
-      <webElementGuid>d3b83f28-b0f1-4b0d-930e-ad0e9594c93d</webElementGuid>
+      <webElementGuid>103d162d-90af-43b2-854a-52cbea37ce96</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'judul']</value>
-      <webElementGuid>c88fb242-3b50-49b5-ab18-027735fdca83</webElementGuid>
+      <webElementGuid>2f67f0cd-d92f-491b-af2f-ef104c9e79d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'judul' and @name = 'judul' and @placeholder = 'Masukkan judul artikel']</value>
-      <webElementGuid>ac516c27-28ff-4d96-b669-a54f4151d429</webElementGuid>
+      <webElementGuid>fa3f88fc-1898-4c92-9ea4-6d8638268dd9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

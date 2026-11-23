@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a81b8eaa-43c4-4788-a144-21581e0610dd</webElementGuid>
+      <webElementGuid>679ebef6-ca64-4e53-baf0-edf135226cc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Artikel Edukasi</value>
-      <webElementGuid>0301c2d1-d282-42a8-aa03-21d49ef23051</webElementGuid>
+      <webElementGuid>a220dd44-5a8b-4cf2-a091-f92cbdd6c781</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-1df3cfccff6ce49b55084298269e5a04</value>
-      <webElementGuid>9a9fa979-8085-45b1-85d1-f3eafe3ad7ee</webElementGuid>
+      <webElementGuid>1341fa57-431f-4316-b204-14e2695bf16a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-item ') and (position() = 4)]//span</value>
-      <webElementGuid>c8d19afa-758b-44f2-ae0e-f5798eac79b1</webElementGuid>
+      <webElementGuid>49974f0b-10fb-47d1-ac62-dd02434110c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-item ') and (position() = 4)]//span</value>
-      <webElementGuid>3e04c93b-2ddd-4031-9783-71afc1ec3710</webElementGuid>
+      <webElementGuid>0551344e-9c00-4347-b719-32d161d6c39a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,6 +73,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Artikel Edukasi' or . = 'Artikel Edukasi')]</value>
-      <webElementGuid>795be300-cb4b-4040-92a1-9b6811141532</webElementGuid>
+      <webElementGuid>89179ae5-b1a8-4c06-9b50-17f087594151</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

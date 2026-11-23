@@ -6,6 +6,16 @@
    <elementGuidId>77aef5a2-06aa-4aac-b787-6c68890dd7bb</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'http://127.0.0.1:8000/admin/artikel' and (text() = '
+                        
+                        Artikel Edukasi
+                    ' or . = '
+                        
+                        Artikel Edukasi
+                    ')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>.nav-item:nth-child(4) a</value>
       </entry>
@@ -29,7 +39,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2149d503-4620-49b5-b3be-40e2d7ac1e6b</webElementGuid>
+      <webElementGuid>ea12b8b8-4c59-4035-baae-27973b7f833c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +47,7 @@
       <name>href</name>
       <type>Main</type>
       <value>http://127.0.0.1:8000/admin/artikel</value>
-      <webElementGuid>909e269f-0071-4852-8b6b-f33c35646e98</webElementGuid>
+      <webElementGuid>de5818cd-e383-40a2-8595-2b7a64cc931d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +58,7 @@
                         
                         Artikel Edukasi
                     </value>
-      <webElementGuid>1d2c48cb-0663-4674-9f64-effcb93c755a</webElementGuid>
+      <webElementGuid>cc54e4d6-700a-4b28-add2-c6bc5bf906f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +66,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-24bdbe516c9da0f7cdb13e1d2678cae9</value>
-      <webElementGuid>819ffa1d-00fc-47b6-9ff4-c18bd08ec4e4</webElementGuid>
+      <webElementGuid>41f91aaf-fd24-48dc-9b57-c64b3e2f1933</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-item ') and (position() = 4)]//a</value>
-      <webElementGuid>c126f8fb-36a8-47c9-8807-89084d560c01</webElementGuid>
+      <webElementGuid>72a6acf6-f39c-4696-a6de-4317aa9807cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-item ') and (position() = 4)]//a</value>
-      <webElementGuid>5afeaee4-f1e6-47fd-a132-8d5dd1600f0d</webElementGuid>
+      <webElementGuid>48044203-4da1-42ed-b1b7-0e2ae766479f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +96,6 @@
                         
                         Artikel Edukasi
                     ')]</value>
-      <webElementGuid>b1791b98-042c-4719-946f-87aa392c01f7</webElementGuid>
+      <webElementGuid>416b3a6f-e5db-45e2-a761-4527e89d3d14</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

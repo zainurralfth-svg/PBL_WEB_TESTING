@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>cb7ccf23-00e1-41d3-b1a6-2ae05b368106</webElementGuid>
+      <webElementGuid>31578fa5-18db-4396-9150-d61b124ac3a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-textarea</value>
-      <webElementGuid>afa3ab35-55c0-41e2-a4cc-06aac627ee02</webElementGuid>
+      <webElementGuid>aa923bf2-d61e-49cc-a62c-bd17e2aa3281</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>id</name>
       <type>Main</type>
       <value>deskripsi</value>
-      <webElementGuid>d08eedcd-242a-495f-aa56-6ee9d5073628</webElementGuid>
+      <webElementGuid>5da66361-7702-481d-882b-8dbccc9e7174</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>name</name>
       <type>Main</type>
       <value>deskripsi</value>
-      <webElementGuid>47534c62-4ba4-46fc-9dac-76a2a7858fd7</webElementGuid>
+      <webElementGuid>34305e86-9d7b-45a1-a510-3237436ccec6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Tulis konten artikel di sini...</value>
-      <webElementGuid>318f46df-e5d1-4b21-ad0b-4913dbd0d9f8</webElementGuid>
+      <webElementGuid>344526f6-534a-4c4e-b7a4-403ba0cfdec5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-7d78adee68b187606cd7358bb6393fdb</value>
-      <webElementGuid>e54ab972-9f2b-44c2-bd26-b8060f1a13ef</webElementGuid>
+      <webElementGuid>2c320074-1854-4b12-bf46-437d085d2bfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'deskripsi']</value>
-      <webElementGuid>a1d90ccb-422e-4621-b002-6529a00ab2dd</webElementGuid>
+      <webElementGuid>f7807f56-cb2f-491f-8e7d-5e4f631f3616</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'deskripsi']</value>
-      <webElementGuid>729f7351-eff6-452c-965f-f67fc5d15bd3</webElementGuid>
+      <webElementGuid>4213de21-27bb-4192-b36b-e23ef700aeec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'deskripsi' and @name = 'deskripsi' and @placeholder = 'Tulis konten artikel di sini...']</value>
-      <webElementGuid>2a6f36e3-dee4-4e51-ac39-61d57890daae</webElementGuid>
+      <webElementGuid>080fe233-70ad-4dc0-b4f8-7e72d67f4df2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

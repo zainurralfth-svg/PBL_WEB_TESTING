@@ -6,6 +6,10 @@
    <elementGuidId>4c844818-8d88-4990-8471-8bd11e6d44da</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@stroke-linejoin = 'round']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[stroke-linejoin=&quot;round&quot;]</value>
       </entry>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>4e3f131a-1147-418c-b835-f6785c70a0aa</webElementGuid>
+      <webElementGuid>48698290-c7f2-4b24-b9a2-c0faa6bcfd20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>stroke-linecap</name>
       <type>Main</type>
       <value>round</value>
-      <webElementGuid>dcba1df2-2766-429f-b603-2656e977c1f7</webElementGuid>
+      <webElementGuid>4f582330-883c-4fb2-9d46-558f3c2a55f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>stroke-linejoin</name>
       <type>Main</type>
       <value>round</value>
-      <webElementGuid>1c2e3dda-35f5-48e4-8c05-e131347a867b</webElementGuid>
+      <webElementGuid>8bde1815-6029-4e96-b257-1245e46c1117</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>b01f7a2b-c878-4189-a5dd-cddd8bc1b79c</webElementGuid>
+      <webElementGuid>090c249d-90bb-495e-bb1e-0ee52d66822a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>d</name>
       <type>Main</type>
       <value>M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z</value>
-      <webElementGuid>b16dd65b-a7f4-4551-a742-71caa8d7e9e8</webElementGuid>
+      <webElementGuid>f3f8fc3d-e2cb-43d1-b837-52cad059c31b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-978030c941f38d19e6cafd188034cd03</value>
-      <webElementGuid>dd04e58a-8ab7-4ff9-accd-7e502888f1d8</webElementGuid>
+      <webElementGuid>761f1323-5791-435d-8d4d-0a642bef2f86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@stroke-linejoin = 'round']</value>
-      <webElementGuid>57999835-669e-414b-8838-116bc422aa89</webElementGuid>
+      <webElementGuid>8fd37004-2c16-4afa-afc1-3bc64a5180de</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +89,6 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@stroke-linejoin = 'round']</value>
-      <webElementGuid>22fda270-0403-487c-bff8-df4f7e6124d5</webElementGuid>
+      <webElementGuid>5508cd06-0e55-4693-9de5-e2712f4572df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -37,7 +37,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>cb21f9d3-ae1c-4625-8ad0-2a24f0b50f54</webElementGuid>
+      <webElementGuid>04c02e69-b31a-49f9-80aa-3bf0f1b03d5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>http://127.0.0.1:8000/admin/artikel/create</value>
-      <webElementGuid>daeb9882-d1ee-47b0-8e8a-ad4e5aa462fd</webElementGuid>
+      <webElementGuid>b5b5b731-3d27-4fd7-b8d6-957d5bbc3d02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-add</value>
-      <webElementGuid>8a9f9f40-c30b-4c0f-b5d6-4211aafc2a11</webElementGuid>
+      <webElementGuid>588fc1da-dc82-449e-9d46-2910d9aa76a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <value>
              Tambah Artikel
         </value>
-      <webElementGuid>ae853983-9371-4fb4-bff9-57e04773dd1e</webElementGuid>
+      <webElementGuid>66eeada5-b833-4217-8f74-b76d5657e396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-8f9571fe0ec66210772d441e27aa1492</value>
-      <webElementGuid>f6c23448-b230-41b4-ac21-fbe28def6384</webElementGuid>
+      <webElementGuid>490b2811-7ef2-4ee2-9d21-38e8e61fed88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-add ')]</value>
-      <webElementGuid>896bc7b7-3f47-4fd5-b26e-c7979a4c1f1d</webElementGuid>
+      <webElementGuid>184def49-ded2-4144-be8f-5978cce35228</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-add ')]</value>
-      <webElementGuid>ab839f8d-9549-4304-8bbf-19148ab63957</webElementGuid>
+      <webElementGuid>eddb01cf-8aa4-45e6-a1b8-7ad6319dafac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +99,6 @@
         ' or . = '
              Tambah Artikel
         ')]</value>
-      <webElementGuid>9e07d6ad-1001-4b0d-873d-940c03946d87</webElementGuid>
+      <webElementGuid>ec6269a6-fe82-4ab9-a6c6-1fdcacefcad7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

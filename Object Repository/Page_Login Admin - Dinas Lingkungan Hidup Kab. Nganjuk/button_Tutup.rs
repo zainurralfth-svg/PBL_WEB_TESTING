@@ -6,16 +6,16 @@
    <elementGuidId>d464279c-9784-4584-8700-e586e6123f67</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' popup-btn ')]</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'Tutup' or . = 'Tutup')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>.popup-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' popup-btn ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2ca54877-f2b4-439f-8a99-176e4ef89246</webElementGuid>
+      <webElementGuid>98d8e47a-2163-4b3d-8ea3-2b75d93d8bef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>popup-btn</value>
-      <webElementGuid>53d4c8bc-0d45-420e-8bf3-ba588cf7a1e2</webElementGuid>
+      <webElementGuid>a391ed1a-98d4-45a3-b112-aa605cf1faad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>closePopup()</value>
-      <webElementGuid>c77abd8d-59a2-46e5-9552-e3dbd91ee4ad</webElementGuid>
+      <webElementGuid>65272721-7dc1-46fa-98bc-bb4de4a23886</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tutup</value>
-      <webElementGuid>80e9afcc-90fa-4879-8658-b9fe0d6e2be1</webElementGuid>
+      <webElementGuid>53c6e99a-a727-4a75-8476-dbe7b3ffbe6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-2f5b83565b4896f0d72edab0a3d265c7</value>
-      <webElementGuid>e80f08cd-bd75-4b85-9523-123878259c0f</webElementGuid>
+      <webElementGuid>cd5e4486-9c17-4b3e-8033-f6a3b4b1d9a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' popup-btn ')]</value>
-      <webElementGuid>e3e57eb3-17d8-41da-a6f6-39599826a599</webElementGuid>
+      <webElementGuid>df24168a-30ba-403f-aece-ae810fd0dfc9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' popup-btn ')]</value>
-      <webElementGuid>50f3f714-859f-478d-871c-ae6fcca1946b</webElementGuid>
+      <webElementGuid>33c675ab-483b-424b-a498-64aad286f39a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Tutup' or . = 'Tutup')]</value>
-      <webElementGuid>3e9faf0a-1dd2-46a2-8319-b035ff274d02</webElementGuid>
+      <webElementGuid>d1d6a76a-374e-4610-be67-238fd0de4785</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

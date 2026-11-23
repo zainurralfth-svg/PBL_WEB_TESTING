@@ -37,7 +37,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>811cb3b4-30c6-4fb5-a320-497ca1f35841</webElementGuid>
+      <webElementGuid>ec4299a1-a044-43aa-9bdb-7c38191c6e3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>1d7ae7a7-87a6-4e53-803f-cf6ff3683850</webElementGuid>
+      <webElementGuid>c306397a-9bc3-4530-a961-2180ebc2c6ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>e7327511-484f-4e8b-9229-6067dc23f5c9</webElementGuid>
+      <webElementGuid>1a2361cf-0dc9-43a5-8e59-858853bff6ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>submitBtn</value>
-      <webElementGuid>e91d91a3-9cf1-4538-8715-16df9fc71418</webElementGuid>
+      <webElementGuid>e717d1eb-6fb0-49ea-803a-68ae08e9f029</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <value>
                     Tambah Artikel
                 </value>
-      <webElementGuid>530f79ed-4490-4acf-a25d-00c959eaf262</webElementGuid>
+      <webElementGuid>4230c849-f3f4-4439-942a-5611b7feed0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-fff444851f6e12bda8dabdd4503fe5d5</value>
-      <webElementGuid>932f9632-a20e-4207-b8b3-cda2acd010c2</webElementGuid>
+      <webElementGuid>ad7af66b-0a15-462f-b759-fc72570f5737</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'submitBtn']</value>
-      <webElementGuid>46ae0fd9-f5d0-4c96-9579-4a0b1f9e0e88</webElementGuid>
+      <webElementGuid>87d6af00-424e-43ef-aa6a-9389a2ccfb9e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'submitBtn']</value>
-      <webElementGuid>91b0bcee-d1ae-4368-9f11-e8d002030861</webElementGuid>
+      <webElementGuid>30f612d4-7d95-4f9d-a11b-6e45dbf3c428</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,6 +107,6 @@
                 ' or . = '
                     Tambah Artikel
                 ')]</value>
-      <webElementGuid>bf7ee660-c8ee-4a77-922d-04cc7cf7f237</webElementGuid>
+      <webElementGuid>375893de-4288-42eb-801d-b9f4c9cbf661</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
