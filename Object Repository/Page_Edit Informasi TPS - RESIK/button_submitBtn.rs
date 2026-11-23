@@ -10,16 +10,16 @@
          <value>//*[@id = 'submitBtn']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#submitBtn</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@type = 'submit' and @id = 'submitBtn' and (text() = '
                     Simpan Perubahan
                 ' or . = '
                     Simpan Perubahan
                 ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#submitBtn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -37,7 +37,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>588e7dca-a149-41cc-914e-7bc40bba6dab</webElementGuid>
+      <webElementGuid>533263aa-30ef-4750-855a-f2f159947478</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>3f9fc4b9-2ad4-47fb-b05b-78c5bfd14476</webElementGuid>
+      <webElementGuid>feca96c5-2e21-43ae-aa79-cf295d1fe733</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>5c59bd04-cb84-4bef-a448-71a8b90fd3a2</webElementGuid>
+      <webElementGuid>6f3d8785-1ae8-4b44-8a22-69c9b954ffe0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>submitBtn</value>
-      <webElementGuid>72d830d7-202a-43f8-9139-7d582422b5af</webElementGuid>
+      <webElementGuid>f03c29f7-8c7a-48c1-848a-f59567d43f00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <value>
                     Simpan Perubahan
                 </value>
-      <webElementGuid>3550d863-bd53-4d3f-b118-0530ab8bddc6</webElementGuid>
+      <webElementGuid>e64dde4c-df20-4e49-a336-a76af6c973dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-fff444851f6e12bda8dabdd4503fe5d5</value>
-      <webElementGuid>bd60e6c1-00f0-45ad-9d34-fdd9fec10138</webElementGuid>
+      <webElementGuid>55e58680-adee-476e-a775-47770bdf801b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'submitBtn']</value>
-      <webElementGuid>4adb6e18-64a0-44db-b094-b0a2750388fd</webElementGuid>
+      <webElementGuid>023ed95b-9ab7-4822-9db0-7f17820efd69</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'submitBtn']</value>
-      <webElementGuid>0a0eaa71-0146-43c4-b4f5-990cefe50f55</webElementGuid>
+      <webElementGuid>63db9475-3423-440c-8c99-5018450bca56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,6 +107,6 @@
                 ' or . = '
                     Simpan Perubahan
                 ')]</value>
-      <webElementGuid>cc221315-f2be-40be-a824-09857c110d9d</webElementGuid>
+      <webElementGuid>4b967209-ccbf-4aa1-96c9-c733174a0ea8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

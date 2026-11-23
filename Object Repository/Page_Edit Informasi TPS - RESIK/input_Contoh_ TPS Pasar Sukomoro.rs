@@ -10,12 +10,12 @@
          <value>//*[@name = 'nama_tps']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>[name=&quot;nama_tps&quot;]</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@type = 'text' and @name = 'nama_tps' and @placeholder = 'Contoh: TPS Pasar Sukomoro']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;nama_tps&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f4c658e2-d37e-4496-83a1-33af43b2d1e1</webElementGuid>
+      <webElementGuid>e1202d4f-cb4a-45ae-b36f-5e80a9a69fd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b546513d-03be-4ee8-a4ce-3ad56b357848</webElementGuid>
+      <webElementGuid>5c6d984e-d9a8-4269-ac41-33f700fdd96d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>name</name>
       <type>Main</type>
       <value>nama_tps</value>
-      <webElementGuid>7faae7eb-3f03-461e-b325-88b3fb472388</webElementGuid>
+      <webElementGuid>3cfb8596-3aaf-4b2f-8211-c0f5a6f2d583</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,15 +57,15 @@
       <name>class</name>
       <type>Main</type>
       <value>form-input</value>
-      <webElementGuid>d02175c5-38e2-4c49-81ef-ef296b79c561</webElementGuid>
+      <webElementGuid>177dce0d-c2b2-49ff-afe1-68ac267ac2f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>TPS Cokroaminoto</value>
-      <webElementGuid>72fb36f9-e341-4c8b-b499-0402d8abffdf</webElementGuid>
+      <value>TPS Cokro</value>
+      <webElementGuid>76db7316-8172-4a0f-a0d0-400f2f5a854a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>150</value>
-      <webElementGuid>0d07456b-643a-483e-90f3-4902988fa81d</webElementGuid>
+      <webElementGuid>e79b31c8-ba12-42d1-8e5d-abba6170731e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -81,7 +81,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Contoh: TPS Pasar Sukomoro</value>
-      <webElementGuid>3b67cec2-fcbe-437b-af20-08f4cd59fbed</webElementGuid>
+      <webElementGuid>287b54b6-b792-424d-aa8e-8bcb4e325e1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-1a98f5923c7439a80f158cf591320e2a</value>
-      <webElementGuid>a769aba3-0628-4745-a591-35690c13fb8f</webElementGuid>
+      <webElementGuid>7b0b6291-cfe7-4d1d-8ca2-4286881ee153</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@name = 'nama_tps']</value>
-      <webElementGuid>8cc1b4c5-9786-46cc-814b-b89e61172543</webElementGuid>
+      <webElementGuid>ac68194b-c172-4191-bd1b-4219bd8f52d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@name = 'nama_tps']</value>
-      <webElementGuid>e9d8fd7b-52a9-4006-9231-2c9201a80d6e</webElementGuid>
+      <webElementGuid>93b29d55-0dff-4194-a435-59f283936abe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'nama_tps' and @placeholder = 'Contoh: TPS Pasar Sukomoro']</value>
-      <webElementGuid>857ddaa8-5958-4380-b6d9-1838c3f9eddf</webElementGuid>
+      <webElementGuid>a1ed22cd-a8c1-4367-99d3-73fb40855f45</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

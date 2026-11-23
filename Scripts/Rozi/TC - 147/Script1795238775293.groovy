@@ -20,32 +20,30 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(null)
 
-WebUI.navigateToUrl('http://127.0.0.1:8000/admin/login')
+WebUI.navigateToUrl('http://127.0.0.1:8000/')
+
+WebUI.click(findTestObject('Page_RESIK - Dinas Lingkungan Hidup Kabupaten Nganjuk/a_LOGIN ADMIN'))
 
 WebUI.setText(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/input_Masukkan email Anda'), 'dikalucky1@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/input_Masukkan kata sandi'), 
     'hUKwJTbofgPU9eVlw/CnDQ==')
 
-WebUI.click(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/button_password-toggle'))
-
 WebUI.click(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/button_Masuk'))
 
-WebUI.click(findTestObject('Page_Dashboard Admin - RESIK/a_Informasi TPS'))
-
-WebUI.click(findTestObject('Page_Daftar TPS - RESIK/a_Edit'))
-
-WebUI.setText(findTestObject('Page_Edit Informasi TPS - RESIK/input_Contoh_ TPS Pasar Sukomoro'), 'TPS Cokro')
-
-WebUI.setText(findTestObject('Page_Edit Informasi TPS - RESIK/textarea_Contoh_ Jl. Merdeka No. 15, Kel. Beran,'), 'Kauman, Kabupaten Nganjuk, Jawa Timur')
-
-WebUI.setText(findTestObject('Page_Edit Informasi TPS - RESIK/input_Contoh_ 100'), '1000')
-
-WebUI.setText(findTestObject('Page_Edit Informasi TPS - RESIK/input_Informasi tambahan'), 'TPS jalan gatot subroto, kauman ')
-
-WebUI.click(findTestObject('Page_Edit Informasi TPS - RESIK/span_Simpan Perubahan'))
+WebUI.click(findTestObject('Page_Dashboard Admin - RESIK/span_Informasi TPS'))
 
 WebUI.click(findTestObject('Page_Daftar TPS - RESIK/img_Edit'))
 
+WebUI.setText(findTestObject('Page_Edit Informasi TPS - RESIK/input_Contoh_ TPS Pasar Sukomoro'), 'TPS Cokroaminoto')
+
+WebUI.setText(findTestObject('Page_Edit Informasi TPS - RESIK/textarea_Contoh_ Jl. Merdeka No. 15, Kel. Beran,'), 'Kauman')
+
+WebUI.setText(findTestObject('Page_Edit Informasi TPS - RESIK/input_Contoh_ 100'), '100')
+
+WebUI.setText(findTestObject('Page_Edit Informasi TPS - RESIK/input_Informasi tambahan'), 'TPS jalan gatot subroto')
+
 WebUI.click(findTestObject('Page_Edit Informasi TPS - RESIK/button_submitBtn'))
+
+WebUI.closeBrowser()
 

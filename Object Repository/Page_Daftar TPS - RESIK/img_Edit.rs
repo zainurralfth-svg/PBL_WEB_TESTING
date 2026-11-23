@@ -10,12 +10,12 @@
          <value>//*[(name() = 'tr') and (position() = 1)]//*[@alt = 'Edit']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>tr:nth-child(1) [alt=&quot;Edit&quot;]</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@src = 'http://127.0.0.1:8000/assets/icons/edit.png' and @alt = 'Edit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-child(1) [alt=&quot;Edit&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>e36e63bf-5bfe-4238-ba0d-d273fc439a7c</webElementGuid>
+      <webElementGuid>b3978427-bdce-4739-9bff-207f4dba6c60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>src</name>
       <type>Main</type>
       <value>http://127.0.0.1:8000/assets/icons/edit.png</value>
-      <webElementGuid>4427702e-78bc-4975-a1ea-149156b4a1c9</webElementGuid>
+      <webElementGuid>1d3e8536-2d4a-41f2-81fb-9aaa238a48d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Edit</value>
-      <webElementGuid>2990ea1f-2e01-45a1-baca-5ceb71409f72</webElementGuid>
+      <webElementGuid>96e30d06-4f82-43d2-a941-32a31d3d0052</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-bf5d60ea6d23423fc7fc4e6acd465ef6</value>
-      <webElementGuid>aa77bbe1-cfd3-4f16-a3e3-981a161db363</webElementGuid>
+      <webElementGuid>d0c2118c-7fb7-46f4-9b6f-03bb9993607c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[(name() = 'tr') and (position() = 1)]//*[@alt = 'Edit']</value>
-      <webElementGuid>a51bd8fc-c306-4d7b-a952-9442bcf787c0</webElementGuid>
+      <webElementGuid>210fe7d1-1b64-4e9b-8dd2-a9eb01bc8235</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[(name() = 'tr') and (position() = 1)]//*[@alt = 'Edit']</value>
-      <webElementGuid>2e661293-d582-4be3-9a19-ad5644995605</webElementGuid>
+      <webElementGuid>97548bc6-2e24-41f9-9761-b10927608011</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'http://127.0.0.1:8000/assets/icons/edit.png' and @alt = 'Edit']</value>
-      <webElementGuid>75a5e436-dd7a-4ec6-b7e8-4947415ef6b6</webElementGuid>
+      <webElementGuid>7abb0fbe-29df-4bb3-8809-585eaee06f1e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -10,6 +10,10 @@
          <value>//*[@name = 'keterangan']</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @name = 'keterangan' and @placeholder = 'Informasi tambahan']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[name=&quot;keterangan&quot;]</value>
       </entry>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6ce2b18d-05e9-4efb-a0e7-aab00252fafc</webElementGuid>
+      <webElementGuid>9982cdb2-01a1-4ce4-a4ae-d87f245b2e42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>f03936b2-8630-41e4-84ac-7054e99c41e5</webElementGuid>
+      <webElementGuid>ac0a056e-9f5d-45bb-ab77-b60770136245</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>name</name>
       <type>Main</type>
       <value>keterangan</value>
-      <webElementGuid>e59fd2ac-6235-4035-bbac-84b504e3a444</webElementGuid>
+      <webElementGuid>710e9cef-fe0d-4ee0-8548-444eb84f0005</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +57,15 @@
       <name>class</name>
       <type>Main</type>
       <value>form-input</value>
-      <webElementGuid>14c9f698-4af7-44bc-8bd4-2d110c496def</webElementGuid>
+      <webElementGuid>d5fa2f15-6000-450e-b855-8dafb7244654</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>TPS di Kauman, Kabupaten Nganjuk, Jawa Timur</value>
-      <webElementGuid>c5c754d3-1198-4671-9eb5-ec4bf5f8b0b4</webElementGuid>
+      <value>TPS jalan gatot subroto, kauman</value>
+      <webElementGuid>a89149ad-d2d0-4f6d-a7e1-2c179100cc98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>66cfb94d-6b1d-44ab-b2a5-7536f9d07a65</webElementGuid>
+      <webElementGuid>7314e130-68bd-47e0-a277-3af6ac234224</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +81,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Informasi tambahan</value>
-      <webElementGuid>c4f2879e-93b7-4064-aba8-ff8c12ff2027</webElementGuid>
+      <webElementGuid>35a85e69-64d7-41dc-a7b0-1293260bee70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-90a752c1cc40c24269de1049779ee61f</value>
-      <webElementGuid>c7cd2a53-361c-4673-a998-52fa65c552e3</webElementGuid>
+      <webElementGuid>e44ff4c7-feaf-4e28-8aa6-ebf256782d73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@name = 'keterangan']</value>
-      <webElementGuid>f4dae2db-4e65-43d3-9612-e126766e1f42</webElementGuid>
+      <webElementGuid>8dc08e62-8cbc-4e67-b583-e35cd10ea757</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@name = 'keterangan']</value>
-      <webElementGuid>2994bd56-079b-491a-b2c3-25f105c70cff</webElementGuid>
+      <webElementGuid>2cad64be-d5ba-43b7-a454-e529cca1df90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'keterangan' and @placeholder = 'Informasi tambahan']</value>
-      <webElementGuid>9a369a4c-2fe4-4527-aa91-d8443f768444</webElementGuid>
+      <webElementGuid>6fc2d7cc-5ee6-4282-a249-be2c8c814d87</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

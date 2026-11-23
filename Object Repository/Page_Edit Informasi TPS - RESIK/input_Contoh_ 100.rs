@@ -10,12 +10,12 @@
          <value>//*[@name = 'kapasitas']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>[name=&quot;kapasitas&quot;]</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@type = 'text' and @name = 'kapasitas' and @placeholder = 'Contoh: 100']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;kapasitas&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fe9e095e-7257-4b80-bc99-6233a1837eda</webElementGuid>
+      <webElementGuid>765c35b3-fcd2-4afb-9516-20a42a91d30d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>77f2db7d-d612-4f37-a643-1a0fc9824910</webElementGuid>
+      <webElementGuid>1f62095c-d49e-4a84-a0cf-6affa48e005e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>name</name>
       <type>Main</type>
       <value>kapasitas</value>
-      <webElementGuid>a5edb915-0e52-476e-bc25-9c36bf139528</webElementGuid>
+      <webElementGuid>906a47ab-87f3-4fd4-ba35-e558749f04d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,15 @@
       <name>class</name>
       <type>Main</type>
       <value>form-input</value>
-      <webElementGuid>41c5cc65-dec1-4012-9920-81380e3e8f90</webElementGuid>
+      <webElementGuid>ca73f4fc-d7a5-4e5f-86aa-e66ce84e926c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1000</value>
+      <webElementGuid>8023653a-e79f-4e29-aa8b-aa74e882a99d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +73,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>6cde8ad7-8eae-411f-95ed-feb377490f32</webElementGuid>
+      <webElementGuid>415d6ecf-5051-469e-8cd8-75122b489104</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -73,7 +81,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Contoh: 100</value>
-      <webElementGuid>cc06df30-4b87-4351-a77e-733a2e91dba6</webElementGuid>
+      <webElementGuid>a30f3ac6-a09d-4118-b3c1-24a2197cb65d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +89,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-6b2bd0ccf39721a842f02299ade772c2</value>
-      <webElementGuid>39b2fef0-4cf7-4267-a256-3890d28db480</webElementGuid>
+      <webElementGuid>d2baadb5-884a-41b8-80a1-8eb61dfb1e33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +97,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@name = 'kapasitas']</value>
-      <webElementGuid>df724de2-8de7-4b6d-8737-74e45cd2bfa5</webElementGuid>
+      <webElementGuid>7e67e23d-b830-46b9-81a8-28eb6da2f28f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +105,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@name = 'kapasitas']</value>
-      <webElementGuid>e1269bc5-c45c-40ad-8d08-003783ca9290</webElementGuid>
+      <webElementGuid>8a5775f7-573a-4a67-864d-0a0c0dd742c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'kapasitas' and @placeholder = 'Contoh: 100']</value>
-      <webElementGuid>2fd1712e-a4f3-45b2-b78b-5ae49d500fc3</webElementGuid>
+      <webElementGuid>cc9ef9d3-72a6-4948-a90b-37ff79f2306d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
