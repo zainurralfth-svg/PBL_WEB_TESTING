@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC - 090</name>
+   <name>TC - 146</name>
    <tag></tag>
    <integratedEntity>
       <productName>TESTOPS</productName>
@@ -27,5 +27,5 @@
    </integratedEntity>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>70a0a17f-adb2-4ea1-bdd7-b851242892d1</testCaseGuid>
+   <testCaseGuid>219800aa-af85-4911-8dd6-df5929b16aa0</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Contoh_ Jl. Merdeka No. 15, Kel. Beran,</name>
+   <tag></tag>
+   <elementGuidId>2e8eac60-2211-4b6b-97aa-9c77fbc3c08d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'alamat']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'alamat' and @placeholder = 'Contoh: Jl. Merdeka No. 15, Kel. Beran, Kec. Nganjuk' and (text() = 'Kauman, Kabupaten Nganjuk, Jawa Timur' or . = 'Kauman, Kabupaten Nganjuk, Jawa Timur')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;alamat&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Contoh: Jl. Merdeka No. 15, Kel. Beran, Kec. Nganjuk&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>ab6cf5d4-7607-47f9-8287-0115d33e0ff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>alamat</value>
+      <webElementGuid>3ff2cd91-43d9-474f-8a83-9082143be411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-textarea</value>
+      <webElementGuid>c49593bd-1f6b-48da-95f5-a17685a0abcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>4b345858-2354-4c7b-94cb-b1ea14f25f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Contoh: Jl. Merdeka No. 15, Kel. Beran, Kec. Nganjuk</value>
+      <webElementGuid>9bc59c1b-8158-4aad-8a43-009b49cc595c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kauman, Kabupaten Nganjuk, Jawa Timur</value>
+      <webElementGuid>920f9098-6312-4ed2-a8a4-b8ad5d725924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-10ce58862ebb49f6acf0d56a68d6d263</value>
+      <webElementGuid>bd3b7e62-cf37-44c9-9717-f9bfd3c6bd19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'alamat']</value>
+      <webElementGuid>24ce7cad-bb88-4be3-a572-f70620d79c14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'alamat']</value>
+      <webElementGuid>0a418c66-edbf-48bb-b29e-5b0ed8bfde01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'alamat' and @placeholder = 'Contoh: Jl. Merdeka No. 15, Kel. Beran, Kec. Nganjuk' and (text() = 'Kauman, Kabupaten Nganjuk, Jawa Timur' or . = 'Kauman, Kabupaten Nganjuk, Jawa Timur')]</value>
+      <webElementGuid>8b96d1b0-dcb3-44b2-8cc4-5e0ca4498379</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
