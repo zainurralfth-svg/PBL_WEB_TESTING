@@ -22,24 +22,20 @@ WebUI.openBrowser(null)
 
 WebUI.navigateToUrl('http://127.0.0.1:8000')
 
-WebUI.click(findTestObject('Page_RESIK - Dinas Lingkungan Hidup Kabupaten Nganjuk/a_LOGIN ADMIN (4)'))
+WebUI.click(findTestObject('Page_RESIK - Dinas Lingkungan Hidup Kabupaten Nganjuk/a_LOGIN ADMIN (9)'))
 
-WebUI.setText(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/input_Masukkan email Anda (4)'), 'dikalucky1@gmail.com')
+WebUI.setText(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/input_Masukkan email Anda (9)'), 'dikalucky1@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/input_Masukkan kata sandi (4)'), 
+WebUI.setEncryptedText(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/input_Masukkan kata sandi (9)'), 
     'hUKwJTbofgPU9eVlw/CnDQ==')
 
-WebUI.click(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/button_Masuk (4)'))
+WebUI.click(findTestObject('Page_Login Admin - Dinas Lingkungan Hidup Kab. Nganjuk/button_Masuk (9)'))
 
-WebUI.click(findTestObject('Page_Dashboard Admin - RESIK/span_Bank Sampah (1)'))
+WebUI.click(findTestObject('Page_Dashboard Admin - RESIK/a_Bank Sampah (4)'))
 
-WebUI.click(findTestObject('Page_Dashboard Admin - RESIK/a_Data Setor'))
+WebUI.click(findTestObject('Page_Dashboard Admin - RESIK/a_Data Setor (4)'))
 
-WebUI.click(findTestObject('Page_Bank Sampah - Data Setor/strong_Mahardika Lucky Permana Putra'))
+WebUI.click(findTestObject('Page_Bank Sampah - Data Setor/strong_Mahardika Lucky Permana Putra (3)'))
 
-WebUI.click(findTestObject('Page_Bank Sampah - Data Setor/input_d_total'))
-
-WebUI.click(findTestObject('Page_Bank Sampah - Data Setor/input_d_petugas'))
-
-WebUI.click(findTestObject('Page_Bank Sampah - Data Setor/button_Tutup'))
+WebUI.click(findTestObject('Page_Bank Sampah - Data Setor/button_Tutup (4)'))
 
