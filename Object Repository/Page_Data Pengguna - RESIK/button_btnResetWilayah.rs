@@ -13,6 +13,14 @@
          <key>CSS</key>
          <value>#btnResetWilayah</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'btnResetWilayah' and (text() = '
+                     Reset
+                ' or . = '
+                     Reset
+                ')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
@@ -29,7 +37,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7745325d-31f7-4a62-a758-bd4523a33d43</webElementGuid>
+      <webElementGuid>09f0290a-5ca2-4519-b6f8-14e9d147f6d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5a3d398e-13a1-4802-a0b0-425370ef86fb</webElementGuid>
+      <webElementGuid>c5b49603-da88-47ad-8b6c-30e9d2c2db93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnResetWilayah</value>
-      <webElementGuid>1316a0bf-5f15-46a1-b08c-5ca89c2c04d0</webElementGuid>
+      <webElementGuid>294b2816-e2f3-4dbd-89a4-3bc50fcf1be9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>filter-btn-reset</value>
-      <webElementGuid>4d488715-fc77-464c-b2e8-b7335eae427a</webElementGuid>
+      <webElementGuid>cc93e829-d1e5-4498-8d29-96acf1996fd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +71,7 @@
       <value>
                      Reset
                 </value>
-      <webElementGuid>213d8c42-0052-476c-84e2-c8d4caec9f08</webElementGuid>
+      <webElementGuid>31fdfa8e-e8de-48c6-9033-d398ea15a060</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +79,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-69bc2b02aab82276eb72c79d568d4a27</value>
-      <webElementGuid>b5563134-66fa-4512-a48d-5a3e680bddc4</webElementGuid>
+      <webElementGuid>1ff595f0-2b47-4985-a983-fdd6b1e87465</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'btnResetWilayah']</value>
-      <webElementGuid>de65f580-1d13-4c1c-82aa-9f0873abdfea</webElementGuid>
+      <webElementGuid>cfce1a7e-0413-4060-b869-3677770cbc82</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'btnResetWilayah']</value>
-      <webElementGuid>f9309008-e739-4580-bacd-5782e5981c0a</webElementGuid>
+      <webElementGuid>92e15373-b2ff-4df2-b7b4-2ddfe8c35242</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +107,6 @@
                 ' or . = '
                      Reset
                 ')]</value>
-      <webElementGuid>7f657eb7-d0c1-49f3-b54f-f1a37a08694a</webElementGuid>
+      <webElementGuid>5aee9d8e-49fb-4b43-8064-5bec41368ca6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

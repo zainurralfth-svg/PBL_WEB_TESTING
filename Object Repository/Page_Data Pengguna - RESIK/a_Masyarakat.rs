@@ -37,7 +37,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>45679471-0f66-40c6-821c-990b56e47605</webElementGuid>
+      <webElementGuid>5b17e9e1-4995-48ac-bb22-e1824388d639</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>http://127.0.0.1:8000/admin/data-pengguna?filter=masyarakat</value>
-      <webElementGuid>a42fff9c-6391-4290-af9a-a2da7538cb15</webElementGuid>
+      <webElementGuid>78a3c070-b5d0-493a-9a05-56899067cf39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>filter-btn </value>
-      <webElementGuid>0e7b278c-c230-4970-bf19-6bec79656cf8</webElementGuid>
+      <webElementGuid>664ad029-4b98-4078-9c61-316b3c9405b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <value>
              Masyarakat
         </value>
-      <webElementGuid>4f511eb7-cb4f-4b6d-8df3-70d6d57c4bae</webElementGuid>
+      <webElementGuid>37acd32e-0927-41ef-9329-7ff401e40a58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-06c25c1a0c2d548d285578ea6d89c735</value>
-      <webElementGuid>5d95de98-3e98-40c6-9c5d-0c637639c230</webElementGuid>
+      <webElementGuid>5cff8ee7-3b26-4a60-ac83-768e6ced4518</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' filter-btn ') and (position() = 3)]</value>
-      <webElementGuid>141d1ff4-f0de-43f3-b3a7-c76a33b6b370</webElementGuid>
+      <webElementGuid>3ef9f352-f760-403e-ad4f-a0b776e41c8a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' filter-btn ') and (position() = 3)]</value>
-      <webElementGuid>90a3aaa6-66ff-44aa-a923-9f0ef0fef89e</webElementGuid>
+      <webElementGuid>b6a6e838-ec3d-4dee-bea8-9f167f0ddec5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +99,6 @@
         ' or . = '
              Masyarakat
         ')]</value>
-      <webElementGuid>543ba3e8-7fa2-492b-aca6-85ac0d70a20c</webElementGuid>
+      <webElementGuid>30196d92-91ea-4e4b-bbab-6f8f0fd0fe1e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

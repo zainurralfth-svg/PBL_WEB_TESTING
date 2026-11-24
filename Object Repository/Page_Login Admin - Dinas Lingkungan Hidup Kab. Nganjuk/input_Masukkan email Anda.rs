@@ -6,16 +6,16 @@
    <elementGuidId>11dbd4e5-cb16-410c-bf06-30f9621e8df4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'email' and @id = 'email' and @name = 'email' and @placeholder = 'Masukkan email Anda']</value>
+         <key>XPATH</key>
+         <value>//*[@id = 'email']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#email</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'email']</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'email' and @id = 'email' and @name = 'email' and @placeholder = 'Masukkan email Anda']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4a7db727-70d3-42ec-a1b9-531a4ab35e8b</webElementGuid>
+      <webElementGuid>66d22f9e-fcc2-47d2-9a32-b1de589aeba4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>bc42bf1e-2c6c-4892-9590-d9d183e2b91c</webElementGuid>
+      <webElementGuid>df10b75a-32ed-457b-af9d-9dfc7cc2835b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>id</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>9f5f04d8-fe70-49a1-8ac1-a804c8f44569</webElementGuid>
+      <webElementGuid>948fb1b6-7117-45f3-9433-b188ce972418</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>name</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>fd51894b-96eb-48ce-9644-0ebbeb3af915</webElementGuid>
+      <webElementGuid>f44e9d15-062e-441d-8d4d-91a6b61fdf0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>ee66f080-fc25-4f06-80ac-f464544f73ed</webElementGuid>
+      <webElementGuid>892d681e-c008-4380-8753-e5be983b426d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan email Anda</value>
-      <webElementGuid>5daf95a6-4f3c-4944-a1dd-dc4ebb23a9dd</webElementGuid>
+      <webElementGuid>861c0d8c-053c-4566-b67f-6280f17476c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-5b9ce64e1b01ab27ccfccd2252edf06f</value>
-      <webElementGuid>e6dec733-4934-47c5-b8d3-b378a8745efe</webElementGuid>
+      <webElementGuid>4a83650b-59e3-4958-80c1-007b2ebc8449</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'email']</value>
-      <webElementGuid>968ce1e2-032a-4f83-b33d-afa1c2de9818</webElementGuid>
+      <webElementGuid>2133e26b-aa98-4047-8f6b-cadf9d51e9f1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'email']</value>
-      <webElementGuid>b90d2d2b-0499-479c-9356-68309a41efc2</webElementGuid>
+      <webElementGuid>2113726b-cf71-44b8-8c46-2572c7c826ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'email' and @id = 'email' and @name = 'email' and @placeholder = 'Masukkan email Anda']</value>
-      <webElementGuid>3f70b495-def7-4e0d-9b7a-e4d7517c4a4e</webElementGuid>
+      <webElementGuid>e510f933-908c-494d-b6e3-4dc0ed5a6e92</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

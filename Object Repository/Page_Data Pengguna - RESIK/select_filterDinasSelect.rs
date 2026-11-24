@@ -13,6 +13,326 @@
          <key>CSS</key>
          <value>#filterDinasSelect</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'dinas_id' and @id = 'filterDinasSelect' and (text() = '
+                        Semua Dinas
+                                                    
+                                Badan Kepegawaian dan Pengembangan Sumber Daya Manusia
+                            
+                                                    
+                                Badan Kesatuan Bangsa dan Politik
+                            
+                                                    
+                                Badan Penanggulangan Bencana Daerah
+                            
+                                                    
+                                Badan Pendapatan Daerah
+                            
+                                                    
+                                Badan Pengelolaan Keuangan dan Aset Daerah
+                            
+                                                    
+                                Badan Perencanaan Pembangunan Daerah
+                            
+                                                    
+                                Dinas Kearsipan dan Perpustakaan
+                            
+                                                    
+                                Dinas Kepemudaan, Olah Raga, Kebudayaan dan Pariwisata
+                            
+                                                    
+                                Dinas Kependudukan dan Pencatatan Sipil
+                            
+                                                    
+                                Dinas Kesehatan
+                            
+                                                    
+                                Dinas Ketahanan Pangan dan Perikanan
+                            
+                                                    
+                                Dinas Komunikasi dan Informatika
+                            
+                                                    
+                                Dinas Koperasi dan Usaha Mikro
+                            
+                                                    
+                                Dinas Lingkungan Hidup
+                            
+                                                    
+                                Dinas Pekerjaan Umum dan Penataan Ruang
+                            
+                                                    
+                                Dinas Pemadam Kebakaran dan Penyelamatan
+                            
+                                                    
+                                Dinas Pemberdayaan Masyarakat dan Desa
+                            
+                                                    
+                                Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu
+                            
+                                                    
+                                Dinas Pendidikan
+                            
+                                                    
+                                Dinas Pengendalian Penduduk dan Keluarga Berencana
+                            
+                                                    
+                                Dinas Perhubungan
+                            
+                                                    
+                                Dinas Perindustrian dan Perdagangan
+                            
+                                                    
+                                Dinas Pertanian
+                            
+                                                    
+                                Dinas Perumahan Rakyat, Kawasan Permukiman dan Pertanahan
+                            
+                                                    
+                                Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak
+                            
+                                                    
+                                Dinas Tenaga Kerja
+                            
+                                                    
+                                Inspektur Daerah
+                            
+                                                    
+                                Kecamatan Bagor
+                            
+                                                    
+                                Kecamatan Baron
+                            
+                                                    
+                                Kecamatan Berbek
+                            
+                                                    
+                                Kecamatan Gondang
+                            
+                                                    
+                                Kecamatan Jatikalen
+                            
+                                                    
+                                Kecamatan Kertosono
+                            
+                                                    
+                                Kecamatan Lengkong
+                            
+                                                    
+                                Kecamatan Loceret
+                            
+                                                    
+                                Kecamatan Nganjuk
+                            
+                                                    
+                                Kecamatan Ngetos
+                            
+                                                    
+                                Kecamatan Ngluyu
+                            
+                                                    
+                                Kecamatan Ngronggot
+                            
+                                                    
+                                Kecamatan Pace
+                            
+                                                    
+                                Kecamatan Patianrowo
+                            
+                                                    
+                                Kecamatan Prambon
+                            
+                                                    
+                                Kecamatan Rejoso
+                            
+                                                    
+                                Kecamatan Sawahan
+                            
+                                                    
+                                Kecamatan Sukomoro
+                            
+                                                    
+                                Kecamatan Tanjunganom
+                            
+                                                    
+                                Kecamatan Wilangan
+                            
+                                                    
+                                RSD Kertosono
+                            
+                                                    
+                                RSD Nganjuk
+                            
+                                                    
+                                Satuan Polisi Pamong Praja
+                            
+                                                    
+                                Sekretaris Daerah Kabupaten Nganjuk
+                            
+                                                    
+                                Sekretaris Dewan Perwakilan Rakyat Daerah
+                            
+                                            ' or . = '
+                        Semua Dinas
+                                                    
+                                Badan Kepegawaian dan Pengembangan Sumber Daya Manusia
+                            
+                                                    
+                                Badan Kesatuan Bangsa dan Politik
+                            
+                                                    
+                                Badan Penanggulangan Bencana Daerah
+                            
+                                                    
+                                Badan Pendapatan Daerah
+                            
+                                                    
+                                Badan Pengelolaan Keuangan dan Aset Daerah
+                            
+                                                    
+                                Badan Perencanaan Pembangunan Daerah
+                            
+                                                    
+                                Dinas Kearsipan dan Perpustakaan
+                            
+                                                    
+                                Dinas Kepemudaan, Olah Raga, Kebudayaan dan Pariwisata
+                            
+                                                    
+                                Dinas Kependudukan dan Pencatatan Sipil
+                            
+                                                    
+                                Dinas Kesehatan
+                            
+                                                    
+                                Dinas Ketahanan Pangan dan Perikanan
+                            
+                                                    
+                                Dinas Komunikasi dan Informatika
+                            
+                                                    
+                                Dinas Koperasi dan Usaha Mikro
+                            
+                                                    
+                                Dinas Lingkungan Hidup
+                            
+                                                    
+                                Dinas Pekerjaan Umum dan Penataan Ruang
+                            
+                                                    
+                                Dinas Pemadam Kebakaran dan Penyelamatan
+                            
+                                                    
+                                Dinas Pemberdayaan Masyarakat dan Desa
+                            
+                                                    
+                                Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu
+                            
+                                                    
+                                Dinas Pendidikan
+                            
+                                                    
+                                Dinas Pengendalian Penduduk dan Keluarga Berencana
+                            
+                                                    
+                                Dinas Perhubungan
+                            
+                                                    
+                                Dinas Perindustrian dan Perdagangan
+                            
+                                                    
+                                Dinas Pertanian
+                            
+                                                    
+                                Dinas Perumahan Rakyat, Kawasan Permukiman dan Pertanahan
+                            
+                                                    
+                                Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak
+                            
+                                                    
+                                Dinas Tenaga Kerja
+                            
+                                                    
+                                Inspektur Daerah
+                            
+                                                    
+                                Kecamatan Bagor
+                            
+                                                    
+                                Kecamatan Baron
+                            
+                                                    
+                                Kecamatan Berbek
+                            
+                                                    
+                                Kecamatan Gondang
+                            
+                                                    
+                                Kecamatan Jatikalen
+                            
+                                                    
+                                Kecamatan Kertosono
+                            
+                                                    
+                                Kecamatan Lengkong
+                            
+                                                    
+                                Kecamatan Loceret
+                            
+                                                    
+                                Kecamatan Nganjuk
+                            
+                                                    
+                                Kecamatan Ngetos
+                            
+                                                    
+                                Kecamatan Ngluyu
+                            
+                                                    
+                                Kecamatan Ngronggot
+                            
+                                                    
+                                Kecamatan Pace
+                            
+                                                    
+                                Kecamatan Patianrowo
+                            
+                                                    
+                                Kecamatan Prambon
+                            
+                                                    
+                                Kecamatan Rejoso
+                            
+                                                    
+                                Kecamatan Sawahan
+                            
+                                                    
+                                Kecamatan Sukomoro
+                            
+                                                    
+                                Kecamatan Tanjunganom
+                            
+                                                    
+                                Kecamatan Wilangan
+                            
+                                                    
+                                RSD Kertosono
+                            
+                                                    
+                                RSD Nganjuk
+                            
+                                                    
+                                Satuan Polisi Pamong Praja
+                            
+                                                    
+                                Sekretaris Daerah Kabupaten Nganjuk
+                            
+                                                    
+                                Sekretaris Dewan Perwakilan Rakyat Daerah
+                            
+                                            ')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
@@ -29,7 +349,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>b6f09542-b910-4eab-9c41-4c1cda8a0f42</webElementGuid>
+      <webElementGuid>8052ad49-188f-4eb2-9823-72d816d53f67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +357,7 @@
       <name>name</name>
       <type>Main</type>
       <value>dinas_id</value>
-      <webElementGuid>649e9334-dcb3-4694-8fc4-18f990c688a9</webElementGuid>
+      <webElementGuid>315b130a-ef04-40c9-aa61-616a684970cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +365,7 @@
       <name>id</name>
       <type>Main</type>
       <value>filterDinasSelect</value>
-      <webElementGuid>4f2f59b3-c0b9-47ed-9237-326baa85addd</webElementGuid>
+      <webElementGuid>1278e969-c34f-457f-aeba-25aee448b78a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +373,7 @@
       <name>class</name>
       <type>Main</type>
       <value>filter-select</value>
-      <webElementGuid>7ba683d9-9e5f-41a1-b2af-6541212bb461</webElementGuid>
+      <webElementGuid>e3bfed80-abd4-4f60-84d0-60f6be74a838</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -219,7 +539,7 @@
                                 Sekretaris Dewan Perwakilan Rakyat Daerah
                             
                                             </value>
-      <webElementGuid>7186a1af-708c-4b4a-9c34-17a166ac358b</webElementGuid>
+      <webElementGuid>7230c6d7-8856-48e0-9806-6da4bbcacae3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -227,7 +547,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-ef9c4d5488f4c52703130003c81a7747</value>
-      <webElementGuid>3efaf6cd-15c3-42cb-ae54-8efb3f058c25</webElementGuid>
+      <webElementGuid>6a54c34d-415f-4ff4-9110-a42512b9ec2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -235,7 +555,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'filterDinasSelect']</value>
-      <webElementGuid>7368ad37-f381-44f6-b5d5-5ceaf8e91691</webElementGuid>
+      <webElementGuid>0c995473-c549-4607-9bff-9839afe46823</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -243,7 +563,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'filterDinasSelect']</value>
-      <webElementGuid>cf46359a-e219-4085-b57d-e726544d9bf2</webElementGuid>
+      <webElementGuid>990f23af-f0d0-4ba5-9f08-6be6f1f865de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -567,6 +887,6 @@
                                 Sekretaris Dewan Perwakilan Rakyat Daerah
                             
                                             ')]</value>
-      <webElementGuid>9d34b436-8bf7-41f8-af55-aa5d87e061f6</webElementGuid>
+      <webElementGuid>802e4d29-46b0-47f2-ad2b-73b5533e52a0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

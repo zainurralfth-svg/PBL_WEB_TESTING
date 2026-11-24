@@ -13,6 +13,10 @@
          <key>CSS</key>
          <value>.pagination li:nth-child(2) a</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'http://127.0.0.1:8000/admin/data-pengguna?filter=all&amp;search=&amp;kecamatan_id=&amp;desa_id=&amp;page=1' and (text() = '1' or . = '1')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
@@ -29,15 +33,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8127aac5-e685-4b8b-a67d-21a20f2e37f7</webElementGuid>
+      <webElementGuid>66975422-3f8d-4c25-9804-bb6ff49cc9e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://127.0.0.1:8000/admin/data-pengguna?filter=masyarakat&amp;search=&amp;kecamatan_id=&amp;desa_id=&amp;page=1</value>
-      <webElementGuid>6b32b3c7-07bc-46d4-9fa9-636b728d513f</webElementGuid>
+      <value>http://127.0.0.1:8000/admin/data-pengguna?filter=all&amp;search=&amp;kecamatan_id=&amp;desa_id=&amp;page=1</value>
+      <webElementGuid>649cd032-a97d-45c6-bf5d-373581735024</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>85d51461-a0c9-4513-8eb2-4d6d55965c71</webElementGuid>
+      <webElementGuid>23e9a629-abdd-4004-ac7d-c6b8baf6ffe8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-e05c1466ea017c5645a3a3dbe46b3aad</value>
-      <webElementGuid>767d324e-3250-4c0e-985f-2275f8a16bb5</webElementGuid>
+      <webElementGuid>e2e476d1-4abd-49fe-a3d8-2f10339b283a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pagination ')]//*[(name() = 'li') and (position() = 2)]//a</value>
-      <webElementGuid>c2071f57-9733-408f-abcc-dc4c5686f0f8</webElementGuid>
+      <webElementGuid>b7b12af2-b440-4ff4-b10a-c24d8f662692</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +73,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' pagination ')]//*[(name() = 'li') and (position() = 2)]//a</value>
-      <webElementGuid>b004796a-fe87-4513-91a5-217fb1cbe6e8</webElementGuid>
+      <webElementGuid>9cd9dcd2-86fc-45d4-979c-5b87fb6a72df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://127.0.0.1:8000/admin/data-pengguna?filter=all&amp;search=&amp;kecamatan_id=&amp;desa_id=&amp;page=1' and (text() = '1' or . = '1')]</value>
+      <webElementGuid>0726c4d4-bd24-4981-b5eb-3b7941a1a05c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -13,6 +13,14 @@
          <key>CSS</key>
          <value>#btnFilterWilayah</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'btnFilterWilayah' and (text() = '
+                     Filter
+                ' or . = '
+                     Filter
+                ')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
@@ -29,7 +37,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>869e0c2a-c89c-444a-82c5-7e098c39f2ef</webElementGuid>
+      <webElementGuid>57f93c17-086d-403d-924e-5c4585186147</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a5dc9ade-a5e6-4190-878c-61d2a7e97e26</webElementGuid>
+      <webElementGuid>10c3c511-3c30-43f5-a0ad-d86025a58bac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnFilterWilayah</value>
-      <webElementGuid>37a6974b-2fc3-4280-bea4-ec049f64f18a</webElementGuid>
+      <webElementGuid>d7b56b35-e0f4-4b34-84dc-c3eb99112f36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>filter-btn-action</value>
-      <webElementGuid>408413ef-c770-456d-bfb7-ad18bebf2e09</webElementGuid>
+      <webElementGuid>9502cdd3-2643-4765-bfee-76c2d1f4496b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +71,7 @@
       <value>
                      Filter
                 </value>
-      <webElementGuid>b69ac2be-c4fa-4c33-bf43-99348694b610</webElementGuid>
+      <webElementGuid>da8daf94-14fe-4144-8c79-9558778d5774</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +79,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-71dcbc9106080e219f7469d5aeaeb67f</value>
-      <webElementGuid>56ac5469-89e4-494f-bf73-93f3bd55443a</webElementGuid>
+      <webElementGuid>aab70f24-25c1-4091-9ede-cd401b031c7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'btnFilterWilayah']</value>
-      <webElementGuid>fcf3a454-ca74-4180-8f96-e81ad078111e</webElementGuid>
+      <webElementGuid>28145c06-34ee-4405-847c-52b66e54fe9a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'btnFilterWilayah']</value>
-      <webElementGuid>bcda3048-87bd-4dcd-926e-5edf4a5ea1d5</webElementGuid>
+      <webElementGuid>7ebcc4bb-4c90-49b8-82e1-b91e901727d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +107,6 @@
                 ' or . = '
                      Filter
                 ')]</value>
-      <webElementGuid>7733996d-5c7a-4251-a906-ff4f0f52a87a</webElementGuid>
+      <webElementGuid>15be1df6-1896-41b9-b424-d38480f26a52</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

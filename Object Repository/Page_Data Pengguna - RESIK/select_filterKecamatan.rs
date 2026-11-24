@@ -13,6 +13,134 @@
          <key>CSS</key>
          <value>#filterKecamatan</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'kecamatan_id' and @id = 'filterKecamatan' and (text() = '
+                        Semua Kecamatan
+                                                    
+                                Bagor
+                            
+                                                    
+                                Baron
+                            
+                                                    
+                                Berbek
+                            
+                                                    
+                                Gondang
+                            
+                                                    
+                                Jatikalen
+                            
+                                                    
+                                Kertosono
+                            
+                                                    
+                                Lengkong
+                            
+                                                    
+                                Loceret
+                            
+                                                    
+                                Nganjuk
+                            
+                                                    
+                                Ngetos
+                            
+                                                    
+                                Ngluyu
+                            
+                                                    
+                                Ngronggot
+                            
+                                                    
+                                Pace
+                            
+                                                    
+                                Patianrowo
+                            
+                                                    
+                                Prambon
+                            
+                                                    
+                                Rejoso
+                            
+                                                    
+                                Sawahan
+                            
+                                                    
+                                Sukomoro
+                            
+                                                    
+                                Tanjunganom
+                            
+                                                    
+                                Wilangan
+                            
+                                            ' or . = '
+                        Semua Kecamatan
+                                                    
+                                Bagor
+                            
+                                                    
+                                Baron
+                            
+                                                    
+                                Berbek
+                            
+                                                    
+                                Gondang
+                            
+                                                    
+                                Jatikalen
+                            
+                                                    
+                                Kertosono
+                            
+                                                    
+                                Lengkong
+                            
+                                                    
+                                Loceret
+                            
+                                                    
+                                Nganjuk
+                            
+                                                    
+                                Ngetos
+                            
+                                                    
+                                Ngluyu
+                            
+                                                    
+                                Ngronggot
+                            
+                                                    
+                                Pace
+                            
+                                                    
+                                Patianrowo
+                            
+                                                    
+                                Prambon
+                            
+                                                    
+                                Rejoso
+                            
+                                                    
+                                Sawahan
+                            
+                                                    
+                                Sukomoro
+                            
+                                                    
+                                Tanjunganom
+                            
+                                                    
+                                Wilangan
+                            
+                                            ')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
@@ -29,7 +157,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>6f52bb56-8f7c-4833-bc63-87f0ab6e4789</webElementGuid>
+      <webElementGuid>497c3b51-93e1-4d24-ba18-befd501740da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +165,7 @@
       <name>name</name>
       <type>Main</type>
       <value>kecamatan_id</value>
-      <webElementGuid>7ef9e129-e67f-4ab8-b6c1-507ec84bb619</webElementGuid>
+      <webElementGuid>8ded11a2-3826-404f-b018-50e624cb00cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +173,7 @@
       <name>id</name>
       <type>Main</type>
       <value>filterKecamatan</value>
-      <webElementGuid>b2d17265-f089-46e0-a66f-369b8050476e</webElementGuid>
+      <webElementGuid>61f33dbb-3271-42ab-a7c1-8e8e8525d28e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +181,7 @@
       <name>class</name>
       <type>Main</type>
       <value>filter-select</value>
-      <webElementGuid>1f2cb2bd-a426-4d94-9763-c69263545017</webElementGuid>
+      <webElementGuid>c073c759-97dd-48f0-b904-a28a8eda01f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -123,7 +251,7 @@
                                 Wilangan
                             
                                             </value>
-      <webElementGuid>fcbdf095-222e-402c-bf79-28f05eff063d</webElementGuid>
+      <webElementGuid>0887363a-80d4-4058-91b8-f31353abfc71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -131,7 +259,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-edf0232176bcf167d9ababa0b99c263b</value>
-      <webElementGuid>46bd9430-34d2-4643-a7f8-ba1095b29972</webElementGuid>
+      <webElementGuid>65860a26-d08b-4d85-86c4-c96828027ce8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -139,7 +267,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'filterKecamatan']</value>
-      <webElementGuid>ae1feb9b-49e2-4988-81cd-fbdd534e7d74</webElementGuid>
+      <webElementGuid>745f9ca8-3413-4ff6-a76b-521789a36df2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -147,7 +275,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'filterKecamatan']</value>
-      <webElementGuid>c15a1c43-d859-4086-8c6c-6cbe77c039e9</webElementGuid>
+      <webElementGuid>da160fa0-a8e9-4eeb-9f98-a25d1d754f9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -279,6 +407,6 @@
                                 Wilangan
                             
                                             ')]</value>
-      <webElementGuid>f610c63c-86c7-47c1-b0e5-e95ed9f2b51c</webElementGuid>
+      <webElementGuid>c5194c89-2001-4b40-bcc5-801360a9d771</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

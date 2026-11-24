@@ -13,6 +13,24 @@
          <key>CSS</key>
          <value>#tipeFilter</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'tipe_filter' and @id = 'tipeFilter' and (text() = '
+                    
+                        Berdasarkan Wilayah
+                    
+                    
+                        Berdasarkan Dinas
+                    
+                ' or . = '
+                    
+                        Berdasarkan Wilayah
+                    
+                    
+                        Berdasarkan Dinas
+                    
+                ')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
@@ -29,7 +47,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>78b982b4-bbfe-45b1-b2eb-e9a7d10d6e14</webElementGuid>
+      <webElementGuid>d6cd717a-15a7-414c-ac6d-ad0c8183c650</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +55,7 @@
       <name>name</name>
       <type>Main</type>
       <value>tipe_filter</value>
-      <webElementGuid>34fbbed9-e282-461a-b0d7-e00ffc1881df</webElementGuid>
+      <webElementGuid>8fee7953-2556-425f-ba1a-be2a711c4d6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +63,7 @@
       <name>id</name>
       <type>Main</type>
       <value>tipeFilter</value>
-      <webElementGuid>000bfed4-42d8-4497-b39d-beb2a0c80b75</webElementGuid>
+      <webElementGuid>fd723046-6ba9-472d-aaeb-cc26f4d6705c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>filter-select</value>
-      <webElementGuid>2c2a2b45-d57c-46f2-91ee-501bb25da7e4</webElementGuid>
+      <webElementGuid>ff1a220c-991e-49f3-9ebd-2548ed4fc1a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +79,7 @@
       <name>onchange</name>
       <type>Main</type>
       <value>toggleFilterType()</value>
-      <webElementGuid>639b23ab-cf43-43ea-8f9c-437a3bd41853</webElementGuid>
+      <webElementGuid>2977ae20-f2e1-48cf-b21a-b1b53da648f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -76,7 +94,7 @@
                         Berdasarkan Dinas
                     
                 </value>
-      <webElementGuid>56a79e0f-8f7c-4021-b427-025b47078180</webElementGuid>
+      <webElementGuid>0a453039-36e3-4aba-8304-17bbeae47440</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +102,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-907d2e12ebe451300df2eda059c3c81b</value>
-      <webElementGuid>3877643c-e7fc-4ebd-b6e0-0027f395e0e1</webElementGuid>
+      <webElementGuid>f32d1b2c-9500-421f-a96f-1607b1dc28d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +110,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'tipeFilter']</value>
-      <webElementGuid>e164849e-caeb-480a-b883-851247545778</webElementGuid>
+      <webElementGuid>9e27ed9f-fe0c-4191-b019-f820e08366a4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'tipeFilter']</value>
-      <webElementGuid>4b390b2e-b679-4b25-9466-9ff2f6d0e404</webElementGuid>
+      <webElementGuid>237d3d46-4838-41e8-a98d-f338c6959e31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,6 +140,6 @@
                         Berdasarkan Dinas
                     
                 ')]</value>
-      <webElementGuid>a25a4074-7046-4006-8fe2-7bda6c405cd8</webElementGuid>
+      <webElementGuid>118c6bdd-7897-436d-a0bc-b39e3da6e908</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

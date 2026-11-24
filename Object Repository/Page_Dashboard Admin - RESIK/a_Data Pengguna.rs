@@ -39,7 +39,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e6888aa6-b947-4049-9d32-0d4944ee1c56</webElementGuid>
+      <webElementGuid>30446c7d-eb50-4f24-a989-3f6f109eb9a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>href</name>
       <type>Main</type>
       <value>http://127.0.0.1:8000/admin/data-pengguna</value>
-      <webElementGuid>62ef47c0-b7d2-43b4-956b-5b6d48d29cbe</webElementGuid>
+      <webElementGuid>2262c77e-7fc3-41ba-b8a2-592d2116c70f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
                         
                         Data Pengguna
                     </value>
-      <webElementGuid>c9d40492-cb9f-4ef5-acf1-1f5b794d8432</webElementGuid>
+      <webElementGuid>a8d1503c-9524-43ff-95c2-cad6acb5f744</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-6bd54f96c6be8d1f1aa5f1450508c0da</value>
-      <webElementGuid>b8e03056-4fa9-492d-b884-c2ee73af5d5b</webElementGuid>
+      <webElementGuid>d0be78c7-d192-44d1-b50f-6d583a8fedae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-item ') and (position() = 6)]//a</value>
-      <webElementGuid>f4eeb794-11f9-4a59-9c73-40b6bbb2ab35</webElementGuid>
+      <webElementGuid>be49033d-1312-4e88-9a75-6128d4936726</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-item ') and (position() = 6)]//a</value>
-      <webElementGuid>68c8005d-0400-42bb-981b-d5e4fe4f6981</webElementGuid>
+      <webElementGuid>e67736f6-98c7-42c8-816a-90c486ef8f20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +96,6 @@
                         
                         Data Pengguna
                     ')]</value>
-      <webElementGuid>1a789300-6507-4998-bfeb-d52970f6415d</webElementGuid>
+      <webElementGuid>5bc5ca73-de5d-4682-ad4a-673460dc55c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

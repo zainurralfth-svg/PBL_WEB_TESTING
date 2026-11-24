@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9d52c2c6-de60-4ed0-bb98-dcd0ebc611a6</webElementGuid>
+      <webElementGuid>42bd2a17-c922-49d0-8768-b5d0efd52281</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>http://127.0.0.1:8000/admin/data-pengguna?filter=all&amp;search=&amp;kecamatan_id=&amp;desa_id=&amp;page=2</value>
-      <webElementGuid>8180f64e-f23f-4a15-9b01-5eb52a9cc70b</webElementGuid>
+      <webElementGuid>a2f6d749-b9c6-47a3-ab3d-c8d3c037ded1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>next</value>
-      <webElementGuid>f36aaab4-289d-424c-b14c-a49ec94ec881</webElementGuid>
+      <webElementGuid>bb3d24cf-da70-4a2e-a730-5eda0172262e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Next »</value>
-      <webElementGuid>86f8d7dc-1dc0-4da8-8c77-ed797ceb7e76</webElementGuid>
+      <webElementGuid>07afbaf3-162e-46fe-8c14-b62f7fbfc910</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-1e9feaa5fa5c8bdc95743815dc654a80</value>
-      <webElementGuid>e35e1f15-51d8-4fba-ba2a-0ea0ed2dd027</webElementGuid>
+      <webElementGuid>02011611-29ce-4394-8d56-a5f0803c1b1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@rel = 'next']</value>
-      <webElementGuid>0581f381-5c5c-4d47-9ca7-04f33d03648a</webElementGuid>
+      <webElementGuid>681ed01f-2d82-4cd0-9a86-981e03e144a1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@rel = 'next']</value>
-      <webElementGuid>0a6e3e76-e66b-4c05-8d25-b18a268e29ee</webElementGuid>
+      <webElementGuid>dbd60c80-8319-461f-8cc8-8dab4f5ee510</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'http://127.0.0.1:8000/admin/data-pengguna?filter=all&amp;search=&amp;kecamatan_id=&amp;desa_id=&amp;page=2' and (text() = 'Next »' or . = 'Next »')]</value>
-      <webElementGuid>ff3e8e54-ea00-46de-8353-a2a5e08471dd</webElementGuid>
+      <webElementGuid>0ac03456-31da-49e5-b45e-6c0bb3813970</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
